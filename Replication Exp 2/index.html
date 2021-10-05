@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome</title>
+        <script src="../jspsych-6.1.0/jspsych.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-html-keyboard-response.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-html-button-response.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-image-keyboard-response.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-image-button-response.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-survey-text.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-survey-multi-choice.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-call-function.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-html-slider-response.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-external-html.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-instructions.js"></script>
+        <script src="../jspsych-6.1.0/plugins/jspsych-fullscreen.js"></script>
+        <script src="../stimuli_animals.js"></script>
+        <script src="../stimuli_objects.js"></script>
+        <script src="../stimuli_trial.js"></script>
+        <script src="../stim_rec_mem.js"></script>
+        <script src="../phq9.js"></script>
+        <script src="../preload_imgs.js"></script>
+        <link href="../jspsych-6.1.0/css/jspsych.css" rel="stylesheet" type="text/css"></link>
+        <p id="demo"></p>
+    <script src="main.js"  charset="UTF-8"></script>
+    <style> 
+
+    .underline {
+  text-decoration: underline;
+  -webkit-text-decoration-color: rgb(0, 0, 0); /* Safari */  
+  text-decoration-color: rgb(0, 0, 0);
+    }
+
+    .whiteline {
+  text-decoration: underline;
+  -webkit-text-decoration-color: rgb(255, 255, 255); /* Safari */  
+  text-decoration-color: rgb(255, 255, 255);
+    }
+
+    .brmedium { 
+            display: block;
+            margin-bottom: 0.60em;
+        }
+        .brmed {
+        display: block;
+        margin-bottom: 2.5em;
+    }
+    .brlarge {
+        display: block;
+        margin-bottom: 4.5em;
+    }
+    .brlarge2 {
+        display: block;
+        margin-bottom: 5.5em;
+    }
+    .brlarge3 {
+        display: block;
+        margin-bottom: 6.5em;
+    }
+
+
+    .btn-bigger {
+  display: inline-block;
+  padding: 15px 15px;
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Open Sans', 'Arial', sans-serif;
+  cursor: pointer;
+  line-height: 1.4;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+.btn-bigger:hover {
+  background-color: #ddd;
+  border-color: #aaa;
+}
+
+    .frame {
+    height: 140px;      /* equals max image height */
+    white-space: nowrap;  
+    text-align: center; margin: 1em 0;
+    }
+    .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    }
+    .imgstar {
+    background: #3A6F9A;
+    vertical-align: middle;
+    max-height: 25px;
+    max-width: 160px;
+    }
+    .space { margin-top: 340px; }
+
+    .white_border{
+        border: 4px solid #ffffff;
+    }
+    .red_border{
+        border: 4px solid #d61818;
+    }
+    .green_border{
+        border: 4px solid #1f971f;
+    }
+
+    .spacing{
+        height: 20px;
+    }
+    .header{
+        height: 45px;
+    }
+    .header_mem{
+        height: 54px;
+    }
+    .pheight {
+        height:45px;
+        vertical-align: bottom;
+        }   
+        
+    .Row {
+        display: table;
+        width: 100%; 
+        table-layout: fixed; 
+        }
+    .Column {
+        display: table-cell;
+        vertical-align: middle;
+        }
+    </style>
+    </head>
+</html>
