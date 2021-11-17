@@ -1249,41 +1249,6 @@ Name: response, dtype: int64"
 Name: response, dtype: int64"
 614723f14fbcaa3d2a846b1e,Rewarded Category,Animal
 614723f14fbcaa3d2a846b1e,End Survey,"{""Q0"":""quiet surprised. some things I knew were 100 some I struggled with "",""Q1"":""tried remembering if I saw it twice "",""Q2"":""3""}"
-5ec006506c113a40ec9e92ee,Overall PC,0.670995670995671
-5ec006506c113a40ec9e92ee,Bonus,0.25
-5ec006506c113a40ec9e92ee,Rew Match Accuracy,0.8333333333333334
-5ec006506c113a40ec9e92ee,Unrew Match Accuracy,0.9333333333333333
-5ec006506c113a40ec9e92ee,CR Overall,0.3424287856071964
-5ec006506c113a40ec9e92ee,CR Overall Rew,0.2867816091954023
-5ec006506c113a40ec9e92ee,CR Overall Unrew,0.39567669172932335
-5ec006506c113a40ec9e92ee,CR Ph1 Rew,0.33678160919540223
-5ec006506c113a40ec9e92ee,CR Ph1 Unrew,0.6278195488721805
-5ec006506c113a40ec9e92ee,CR Ph2 Rew,0.23678160919540225
-5ec006506c113a40ec9e92ee,CR Ph2 Unrew,0.1635338345864662
-5ec006506c113a40ec9e92ee,DP Overall,1.5549047604774737
-5ec006506c113a40ec9e92ee,DP Overall Rew,1.3860490443702662
-5ec006506c113a40ec9e92ee,DP Overall Unrew,1.8065998136051098
-5ec006506c113a40ec9e92ee,DP Ph1 Rew,1.544178954436965
-5ec006506c113a40ec9e92ee,DP Ph1 Unrew,2.4669577498463773
-5ec006506c113a40ec9e92ee,DP Ph2 Rew,1.2309718534692262
-5ec006506c113a40ec9e92ee,DP Ph2 Unrew,1.155302375429503
-5ec006506c113a40ec9e92ee,Memory Test RT,2247.7748917748936
-5ec006506c113a40ec9e92ee,Memory Certainty Count,"0.0     33
-12.0    40
-24.0    31
-48.0    45
-60.0    61
-72.0    21
-Name: response, dtype: int64"
-5ec006506c113a40ec9e92ee,Memory Certainty Count Correct,"0.0     29
-12.0    29
-24.0    14
-48.0    32
-60.0    37
-72.0    14
-Name: response, dtype: int64"
-5ec006506c113a40ec9e92ee,Rewarded Category,Animal
-5ec006506c113a40ec9e92ee,End Survey,"{""Q0"":""Not surprised"",""Q1"":""remembering colours"",""Q2"":""4""}"
 5ec006506c113a40ec9e92ee,Overall PC,0.7154811715481172
 5ec006506c113a40ec9e92ee,Bonus,0.25
 5ec006506c113a40ec9e92ee,Rew Match Accuracy,0.8333333333333334
@@ -1913,6 +1878,41 @@ Name: response, dtype: int64"
 Name: response, dtype: int64"
 5f364e4f71dbfc688942a7e7,Rewarded Category,Object
 5f364e4f71dbfc688942a7e7,End Survey,"{""Q0"":""Quite suprised - I thought it would be a repeat of the same test as yesterday"",""Q1"":""Whatever first came to my mind and tried not to think about it for too long"",""Q2"":""3""}"
+61485d949d2aaf377ed08578,Overall PC,0.698744769874477
+61485d949d2aaf377ed08578,Bonus,0
+61485d949d2aaf377ed08578,Rew Match Accuracy,0.7333333333333333
+61485d949d2aaf377ed08578,Unrew Match Accuracy,0.6666666666666666
+61485d949d2aaf377ed08578,CR Overall,0.39740896358543415
+61485d949d2aaf377ed08578,CR Overall Rew,0.4316384180790961
+61485d949d2aaf377ed08578,CR Overall Unrew,0.3666666666666667
+61485d949d2aaf377ed08578,CR Ph1 Rew,0.4666666666666667
+61485d949d2aaf377ed08578,CR Ph1 Unrew,0.44999999999999996
+61485d949d2aaf377ed08578,CR Ph2 Rew,0.39540229885057465
+61485d949d2aaf377ed08578,CR Ph2 Unrew,0.2833333333333333
+61485d949d2aaf377ed08578,DP Overall,1.7080293433098617
+61485d949d2aaf377ed08578,DP Overall Rew,2.0266916750517137
+61485d949d2aaf377ed08578,DP Overall Unrew,1.8190236307033367
+61485d949d2aaf377ed08578,DP Ph1 Rew,2.2561714053470747
+61485d949d2aaf377ed08578,DP Ph1 Unrew,2.0308131643777494
+61485d949d2aaf377ed08578,DP Ph2 Rew,1.8427156477597622
+61485d949d2aaf377ed08578,DP Ph2 Unrew,1.6004755964467128
+61485d949d2aaf377ed08578,Memory Test RT,2510.2317991630803
+61485d949d2aaf377ed08578,Memory Certainty Count,"0.0     45
+12.0    36
+24.0    36
+48.0    52
+60.0    35
+72.0    35
+Name: response, dtype: int64"
+61485d949d2aaf377ed08578,Memory Certainty Count Correct,"0.0     39
+12.0    21
+24.0    22
+48.0    32
+60.0    23
+72.0    30
+Name: response, dtype: int64"
+61485d949d2aaf377ed08578,Rewarded Category,Animal
+61485d949d2aaf377ed08578,End Survey,"{""Q0"":""surprised "",""Q1"":""Just tried to remember what I had seen "",""Q2"":""3""}"
 615e25a2ad4fdb2fe4530c9d,Overall PC,0.7184873949579832
 615e25a2ad4fdb2fe4530c9d,Bonus,5.25
 615e25a2ad4fdb2fe4530c9d,Rew Match Accuracy,0.9666666666666667

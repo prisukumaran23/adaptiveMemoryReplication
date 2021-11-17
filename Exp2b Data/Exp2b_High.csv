@@ -1109,37 +1109,6 @@ Name: response, dtype: int64"
 Name: response, dtype: int64"
 614723f14fbcaa3d2a846b1e,Rewarded Category,Animal
 614723f14fbcaa3d2a846b1e,End Survey,"{""Q0"":""quiet surprised. some things I knew were 100 some I struggled with "",""Q1"":""tried remembering if I saw it twice "",""Q2"":""3""}"
-5ec006506c113a40ec9e92ee,Overall PC,0.7032258064516129
-5ec006506c113a40ec9e92ee,Bonus,0.25
-5ec006506c113a40ec9e92ee,Rew Match Accuracy,0.8333333333333334
-5ec006506c113a40ec9e92ee,Unrew Match Accuracy,0.9333333333333333
-5ec006506c113a40ec9e92ee,CR Overall,0.4244126659856997
-5ec006506c113a40ec9e92ee,CR Overall Rew,0.36231884057971014
-5ec006506c113a40ec9e92ee,CR Overall Unrew,0.5046511627906977
-5ec006506c113a40ec9e92ee,CR Ph1 Rew,0.44927536231884063
-5ec006506c113a40ec9e92ee,CR Ph1 Unrew,0.7571428571428571
-5ec006506c113a40ec9e92ee,CR Ph2 Rew,0.27536231884057977
-5ec006506c113a40ec9e92ee,CR Ph2 Unrew,0.26363636363636367
-5ec006506c113a40ec9e92ee,DP Overall,1.8064932505015514
-5ec006506c113a40ec9e92ee,DP Overall Rew,1.6048826077175196
-5ec006506c113a40ec9e92ee,DP Overall Unrew,2.2183583263324156
-5ec006506c113a40ec9e92ee,DP Ph1 Rew,1.8817187035120946
-5ec006506c113a40ec9e92ee,DP Ph1 Unrew,3.0358817854622773
-5ec006506c113a40ec9e92ee,DP Ph2 Rew,1.3496436578512658
-5ec006506c113a40ec9e92ee,DP Ph2 Unrew,1.5945090139817029
-5ec006506c113a40ec9e92ee,Memory Test RT,2307.37419354839
-5ec006506c113a40ec9e92ee,Memory Certainty Count,"0.0     33
-12.0    40
-60.0    61
-72.0    21
-Name: response, dtype: int64"
-5ec006506c113a40ec9e92ee,Memory Certainty Count Correct,"0.0     29
-12.0    29
-60.0    37
-72.0    14
-Name: response, dtype: int64"
-5ec006506c113a40ec9e92ee,Rewarded Category,Animal
-5ec006506c113a40ec9e92ee,End Survey,"{""Q0"":""Not surprised"",""Q1"":""remembering colours"",""Q2"":""4""}"
 5ec006506c113a40ec9e92ee,Overall PC,0.7647058823529411
 5ec006506c113a40ec9e92ee,Bonus,0.25
 5ec006506c113a40ec9e92ee,Rew Match Accuracy,0.8333333333333334
@@ -1696,6 +1665,37 @@ Name: response, dtype: int64"
 Name: response, dtype: int64"
 5f364e4f71dbfc688942a7e7,Rewarded Category,Object
 5f364e4f71dbfc688942a7e7,End Survey,"{""Q0"":""Quite suprised - I thought it would be a repeat of the same test as yesterday"",""Q1"":""Whatever first came to my mind and tried not to think about it for too long"",""Q2"":""3""}"
+61485d949d2aaf377ed08578,Overall PC,0.7483443708609272
+61485d949d2aaf377ed08578,Bonus,0
+61485d949d2aaf377ed08578,Rew Match Accuracy,0.7333333333333333
+61485d949d2aaf377ed08578,Unrew Match Accuracy,0.6666666666666666
+61485d949d2aaf377ed08578,CR Overall,0.4954369954369955
+61485d949d2aaf377ed08578,CR Overall Rew,0.4988851727982163
+61485d949d2aaf377ed08578,CR Overall Unrew,0.43410138248847924
+61485d949d2aaf377ed08578,CR Ph1 Rew,0.5641025641025641
+61485d949d2aaf377ed08578,CR Ph1 Unrew,0.5732142857142857
+61485d949d2aaf377ed08578,CR Ph2 Rew,0.4336677814938684
+61485d949d2aaf377ed08578,CR Ph2 Unrew,0.28571428571428575
+61485d949d2aaf377ed08578,DP Overall,2.012227044118561
+61485d949d2aaf377ed08578,DP Overall Rew,2.345358954312165
+61485d949d2aaf377ed08578,DP Overall Unrew,1.9965826859161369
+61485d949d2aaf377ed08578,DP Ph1 Rew,3.182493019165153
+61485d949d2aaf377ed08578,DP Ph1 Unrew,2.3644711924888075
+61485d949d2aaf377ed08578,DP Ph2 Rew,1.9564121024769678
+61485d949d2aaf377ed08578,DP Ph2 Unrew,1.6133160814263294
+61485d949d2aaf377ed08578,Memory Test RT,2431.8854304633
+61485d949d2aaf377ed08578,Memory Certainty Count,"0.0     45
+12.0    36
+60.0    35
+72.0    35
+Name: response, dtype: int64"
+61485d949d2aaf377ed08578,Memory Certainty Count Correct,"0.0     39
+12.0    21
+60.0    23
+72.0    30
+Name: response, dtype: int64"
+61485d949d2aaf377ed08578,Rewarded Category,Animal
+61485d949d2aaf377ed08578,End Survey,"{""Q0"":""surprised "",""Q1"":""Just tried to remember what I had seen "",""Q2"":""3""}"
 615e25a2ad4fdb2fe4530c9d,Overall PC,0.7869822485207101
 615e25a2ad4fdb2fe4530c9d,Bonus,5.25
 615e25a2ad4fdb2fe4530c9d,Rew Match Accuracy,0.9666666666666667
