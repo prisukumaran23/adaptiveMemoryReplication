@@ -660,5 +660,5 @@ def create_clean_data(exp):
     plt4.show()
     
 # Experiments with different conditioning paradigms 
-exp='3'
+exp='2a'
 create_clean_data(exp)
