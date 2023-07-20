@@ -1,0 +1,2519 @@
+,UserID,Condition,Value
+0,5c58bb2ce9813700018b0b88,Overall PC,0.7708333333333334
+1,5c58bb2ce9813700018b0b88,Age,32
+2,5c58bb2ce9813700018b0b88,Sex,SexMale
+3,5c58bb2ce9813700018b0b88,Bonus,5.25
+4,5c58bb2ce9813700018b0b88,Overall Match Accuracy,0.9
+5,5c58bb2ce9813700018b0b88,Overall Match RT,469.78636365153574
+6,5c58bb2ce9813700018b0b88,CR Overall,0.5416666666666667
+7,5c58bb2ce9813700018b0b88,HR Overall,0.675
+8,5c58bb2ce9813700018b0b88,FA Overall,0.13333333333333333
+9,5c58bb2ce9813700018b0b88,CR Overall High Reward,0.4
+10,5c58bb2ce9813700018b0b88,CR Overall Low Reward,0.6833333333333333
+11,5c58bb2ce9813700018b0b88,CR Ph1 High Reward,0.2333333333333333
+12,5c58bb2ce9813700018b0b88,CR Ph1 Low Reward,0.6
+13,5c58bb2ce9813700018b0b88,CR Ph2 High Reward,0.5666666666666667
+14,5c58bb2ce9813700018b0b88,CR Ph2 Low Reward,0.7666666666666667
+15,5c58bb2ce9813700018b0b88,DP Overall,2.2359492146731794
+16,5c58bb2ce9813700018b0b88,DP Overall High Reward,1.864146859899628
+17,5c58bb2ce9813700018b0b88,DP Overall Low Reward,2.688604572552298
+18,5c58bb2ce9813700018b0b88,DP Ph1 High Reward,1.4199460580856271
+19,5c58bb2ce9813700018b0b88,DP Ph1 Low Reward,2.4055073504622446
+20,5c58bb2ce9813700018b0b88,DP Ph2 High Reward,2.306675182989952
+21,5c58bb2ce9813700018b0b88,DP Ph2 Low Reward,3.0813615633194096
+22,5c58bb2ce9813700018b0b88,PHQ Score,1
+23,5c58bb2ce9813700018b0b88,PHQ Attention Check,1
+24,5c58bb2ce9813700018b0b88,Memory Test RT,2767.4462499896686
+25,5c58bb2ce9813700018b0b88,Memory Certainty Count,"      response
+0.0         62
+12.0        12
+24.0        23
+48.0        25
+60.0        48
+72.0        70"
+26,5c58bb2ce9813700018b0b88,Memory Certainty Correct Count,"      response
+0.0         57
+12.0        10
+24.0        14
+48.0        15
+60.0        35
+72.0        54"
+27,5c58bb2ce9813700018b0b88,Rewarded Category,Animal
+28,5c58bb2ce9813700018b0b88,End Survey,"{""Q0"":""I didn't predict it but I wasn't surprised there was another picture task"",""Q1"":""I just did my own style of remembering, some stuff stuck in my mind more than others!"",""Q2"":""3.5""}"
+29,5c58bb2ce9813700018b0b88,End Survey2,"{""Q0"":""yes"",""Q1"":""no!""}"
+0,5eb126c5f13db7000855c7b7,Overall PC,0.875
+1,5eb126c5f13db7000855c7b7,Age,25
+2,5eb126c5f13db7000855c7b7,Sex,SexFemale
+3,5eb126c5f13db7000855c7b7,Bonus,5.25
+4,5eb126c5f13db7000855c7b7,Overall Match Accuracy,0.9
+5,5eb126c5f13db7000855c7b7,Overall Match RT,460.9190909090621
+6,5eb126c5f13db7000855c7b7,CR Overall,0.75
+7,5eb126c5f13db7000855c7b7,HR Overall,0.8583333333333333
+8,5eb126c5f13db7000855c7b7,FA Overall,0.10833333333333334
+9,5eb126c5f13db7000855c7b7,CR Overall High Reward,0.8166666666666667
+10,5eb126c5f13db7000855c7b7,CR Overall Low Reward,0.6833333333333333
+11,5eb126c5f13db7000855c7b7,CR Ph1 High Reward,0.75
+12,5eb126c5f13db7000855c7b7,CR Ph1 Low Reward,0.6
+13,5eb126c5f13db7000855c7b7,CR Ph2 High Reward,0.8833333333333333
+14,5eb126c5f13db7000855c7b7,CR Ph2 Low Reward,0.7666666666666667
+15,5eb126c5f13db7000855c7b7,DP Overall,2.9930831937658993
+16,5eb126c5f13db7000855c7b7,DP Overall High Reward,3.4033681031781464
+17,5eb126c5f13db7000855c7b7,DP Overall Low Reward,2.741309280660033
+18,5eb126c5f13db7000855c7b7,DP Ph1 High Reward,2.9871057208418286
+19,5eb126c5f13db7000855c7b7,DP Ph1 Low Reward,2.4782069617971034
+20,5eb126c5f13db7000855c7b7,DP Ph2 High Reward,4.33791785413541
+21,5eb126c5f13db7000855c7b7,DP Ph2 Low Reward,3.0813615633194096
+22,5eb126c5f13db7000855c7b7,PHQ Score,3
+23,5eb126c5f13db7000855c7b7,PHQ Attention Check,1
+24,5eb126c5f13db7000855c7b7,Memory Test RT,2706.472083333259
+25,5eb126c5f13db7000855c7b7,Memory Certainty Count,"      response
+0.0         83
+12.0        20
+24.0        13
+48.0         6
+60.0        19
+72.0        99"
+26,5eb126c5f13db7000855c7b7,Memory Certainty Correct Count,"      response
+0.0         83
+12.0        15
+24.0         5
+48.0         6
+60.0        17
+72.0        84"
+27,5eb126c5f13db7000855c7b7,Rewarded Category,Object
+28,5eb126c5f13db7000855c7b7,End Survey,"{""Q0"":""Not very"",""Q1"":""I had said all the images out loud yesterday so it may have helped me remember them better"",""Q2"":""4""}"
+29,5eb126c5f13db7000855c7b7,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,615b0d3dd95cc4ea99feedc2,Overall PC,0.6778242677824268
+1,615b0d3dd95cc4ea99feedc2,Age,24
+2,615b0d3dd95cc4ea99feedc2,Sex,SexMale
+3,615b0d3dd95cc4ea99feedc2,Bonus,5.25
+4,615b0d3dd95cc4ea99feedc2,Overall Match Accuracy,0.9583333333333334
+5,615b0d3dd95cc4ea99feedc2,Overall Match RT,398.2786324411376
+6,615b0d3dd95cc4ea99feedc2,CR Overall,0.35637254901960785
+7,615b0d3dd95cc4ea99feedc2,HR Overall,0.5916666666666667
+8,615b0d3dd95cc4ea99feedc2,FA Overall,0.23529411764705882
+9,615b0d3dd95cc4ea99feedc2,CR Overall High Reward,0.33333333333333337
+10,615b0d3dd95cc4ea99feedc2,CR Overall Low Reward,0.37966101694915255
+11,615b0d3dd95cc4ea99feedc2,CR Ph1 High Reward,0.2833333333333333
+12,615b0d3dd95cc4ea99feedc2,CR Ph1 Low Reward,0.4129943502824859
+13,615b0d3dd95cc4ea99feedc2,CR Ph2 High Reward,0.3833333333333333
+14,615b0d3dd95cc4ea99feedc2,CR Ph2 Low Reward,0.3463276836158192
+15,615b0d3dd95cc4ea99feedc2,DP Overall,1.6161012739834402
+16,615b0d3dd95cc4ea99feedc2,DP Overall High Reward,1.543870247920254
+17,615b0d3dd95cc4ea99feedc2,DP Overall Low Reward,1.6900832328726847
+18,615b0d3dd95cc4ea99feedc2,DP Ph1 High Reward,1.4068310292324007
+19,615b0d3dd95cc4ea99feedc2,DP Ph1 Low Reward,1.7799470300175724
+20,615b0d3dd95cc4ea99feedc2,DP Ph2 High Reward,1.6805402695894973
+21,615b0d3dd95cc4ea99feedc2,DP Ph2 Low Reward,1.6009735968148715
+22,615b0d3dd95cc4ea99feedc2,PHQ Score,1
+23,615b0d3dd95cc4ea99feedc2,PHQ Attention Check,1
+24,615b0d3dd95cc4ea99feedc2,Memory Test RT,3125.910878616397
+25,615b0d3dd95cc4ea99feedc2,Memory Certainty Count,"      response
+0.0         21
+12.0        32
+24.0        46
+48.0        68
+60.0        41
+72.0        31"
+26,615b0d3dd95cc4ea99feedc2,Memory Certainty Correct Count,"      response
+0.0         18
+12.0        26
+24.0        27
+48.0        40
+60.0        27
+72.0        24"
+27,615b0d3dd95cc4ea99feedc2,Rewarded Category,Animal
+28,615b0d3dd95cc4ea99feedc2,End Survey,"{""Q0"":""fairly suprised"",""Q1"":""i just went with my instinct,some images felt more recognisable than others "",""Q2"":""4""}"
+29,615b0d3dd95cc4ea99feedc2,End Survey2,"{""Q0"":""Yes"",""Q1"":""No I couldn't say ""}"
+0,6081aa9dda5d04bf29e19e7e,Overall PC,0.5296610169491526
+1,6081aa9dda5d04bf29e19e7e,Age,22
+2,6081aa9dda5d04bf29e19e7e,Sex,SexFemale
+3,6081aa9dda5d04bf29e19e7e,Bonus,5.25
+4,6081aa9dda5d04bf29e19e7e,Overall Match Accuracy,0.8583333333333333
+5,6081aa9dda5d04bf29e19e7e,Overall Match RT,417.1711711475441
+6,6081aa9dda5d04bf29e19e7e,CR Overall,0.05932203389830515
+7,6081aa9dda5d04bf29e19e7e,HR Overall,0.6949152542372882
+8,6081aa9dda5d04bf29e19e7e,FA Overall,0.635593220338983
+9,6081aa9dda5d04bf29e19e7e,CR Overall High Reward,0.03389830508474578
+10,6081aa9dda5d04bf29e19e7e,CR Overall Low Reward,0.0847457627118644
+11,6081aa9dda5d04bf29e19e7e,CR Ph1 High Reward,0.02203389830508473
+12,6081aa9dda5d04bf29e19e7e,CR Ph1 Low Reward,-0.007013442431326733
+13,6081aa9dda5d04bf29e19e7e,CR Ph2 High Reward,0.04617182933956754
+14,6081aa9dda5d04bf29e19e7e,CR Ph2 Low Reward,0.1734463276836159
+15,6081aa9dda5d04bf29e19e7e,DP Overall,0.6069178387920675
+16,6081aa9dda5d04bf29e19e7e,DP Overall High Reward,0.4638416960864086
+17,6081aa9dda5d04bf29e19e7e,DP Overall Low Reward,0.7201288622439593
+18,6081aa9dda5d04bf29e19e7e,DP Ph1 High Reward,0.3707726917793772
+19,6081aa9dda5d04bf29e19e7e,DP Ph1 Low Reward,-0.19831441471388045
+20,6081aa9dda5d04bf29e19e7e,DP Ph2 High Reward,0.5463602396291588
+21,6081aa9dda5d04bf29e19e7e,DP Ph2 Low Reward,1.0970588000749355
+22,6081aa9dda5d04bf29e19e7e,PHQ Score,2
+23,6081aa9dda5d04bf29e19e7e,PHQ Attention Check,1
+24,6081aa9dda5d04bf29e19e7e,Memory Test RT,2820.9995762756316
+25,6081aa9dda5d04bf29e19e7e,Memory Certainty Count,"      response
+0.0         28
+12.0        42
+24.0        87
+48.0        53
+60.0        23
+72.0         3"
+26,6081aa9dda5d04bf29e19e7e,Memory Certainty Correct Count,"      response
+0.0         17
+12.0        15
+24.0        50
+48.0        30
+60.0        11
+72.0         2"
+27,6081aa9dda5d04bf29e19e7e,Rewarded Category,Object
+28,6081aa9dda5d04bf29e19e7e,End Survey,"{""Q0"":""very"",""Q1"":""tried to remember"",""Q2"":""1""}"
+29,6081aa9dda5d04bf29e19e7e,End Survey2,"{""Q0"":""yes"",""Q1"":""faster""}"
+0,5aeaee620ef2f20001859359,Overall PC,0.7541666666666667
+1,5aeaee620ef2f20001859359,Age,29
+2,5aeaee620ef2f20001859359,Sex,SexFemale
+3,5aeaee620ef2f20001859359,Bonus,5
+4,5aeaee620ef2f20001859359,Overall Match Accuracy,0.9083333333333333
+5,5aeaee620ef2f20001859359,Overall Match RT,384.1102564120904
+6,5aeaee620ef2f20001859359,CR Overall,0.5083333333333333
+7,5aeaee620ef2f20001859359,HR Overall,0.6333333333333333
+8,5aeaee620ef2f20001859359,FA Overall,0.125
+9,5aeaee620ef2f20001859359,CR Overall High Reward,0.33333333333333337
+10,5aeaee620ef2f20001859359,CR Overall Low Reward,0.6833333333333333
+11,5aeaee620ef2f20001859359,CR Ph1 High Reward,0.19999999999999998
+12,5aeaee620ef2f20001859359,CR Ph1 Low Reward,0.65
+13,5aeaee620ef2f20001859359,CR Ph2 High Reward,0.4666666666666667
+14,5aeaee620ef2f20001859359,CR Ph2 Low Reward,0.7166666666666667
+15,5aeaee620ef2f20001859359,DP Overall,2.1624064057576327
+16,5aeaee620ef2f20001859359,DP Overall High Reward,1.781904593786556
+17,5aeaee620ef2f20001859359,DP Overall Low Reward,2.6787583537892585
+18,5aeaee620ef2f20001859359,DP Ph1 High Reward,1.4057404483245692
+19,5aeaee620ef2f20001859359,DP Ph1 Low Reward,2.5510025105394916
+20,5aeaee620ef2f20001859359,DP Ph2 High Reward,2.1207645683542657
+21,5aeaee620ef2f20001859359,DP Ph2 Low Reward,2.825750898747606
+22,5aeaee620ef2f20001859359,PHQ Score,0
+23,5aeaee620ef2f20001859359,PHQ Attention Check,1
+24,5aeaee620ef2f20001859359,Memory Test RT,2413.848333335668
+25,5aeaee620ef2f20001859359,Memory Certainty Count,"      response
+0.0         33
+12.0        23
+24.0        35
+48.0        53
+60.0        44
+72.0        52"
+26,5aeaee620ef2f20001859359,Memory Certainty Correct Count,"      response
+0.0         33
+12.0        22
+24.0        21
+48.0        33
+60.0        32
+72.0        40"
+27,5aeaee620ef2f20001859359,Rewarded Category,Object
+28,5aeaee620ef2f20001859359,End Survey,"{""Q0"":""I was not expecting it at all"",""Q1"":""When I did the task yesterday, I tried to memorise certain shapes or blocks of colour for a faster response, so sometimes I remembered these. Other times, I remember thinking funny things about items/animals, so that enhanced memory"",""Q2"":""5""}"
+29,5aeaee620ef2f20001859359,End Survey2,"{""Q0"":""I noticed some subcategories too. There was animals Vs Objects, but there was also insects Vs fluffy mammals within the animal category"",""Q1"":""No, I did not notice a difference in reward based on type of picture. I thought reward was based on speed (hence why I tried to remember colours or big shapes of either colour - or lack of colour in the case of that saw tool with a big gap of blank space inside to try and be quicker)""}"
+0,5f0b062853f8960008793934,Overall PC,0.7791666666666667
+1,5f0b062853f8960008793934,Age,27
+2,5f0b062853f8960008793934,Sex,SexFemale
+3,5f0b062853f8960008793934,Bonus,5.25
+4,5f0b062853f8960008793934,Overall Match Accuracy,0.9666666666666667
+5,5f0b062853f8960008793934,Overall Match RT,397.8823529531976
+6,5f0b062853f8960008793934,CR Overall,0.5583333333333333
+7,5f0b062853f8960008793934,HR Overall,0.725
+8,5f0b062853f8960008793934,FA Overall,0.16666666666666666
+9,5f0b062853f8960008793934,CR Overall High Reward,0.5666666666666667
+10,5f0b062853f8960008793934,CR Overall Low Reward,0.5499999999999999
+11,5f0b062853f8960008793934,CR Ph1 High Reward,0.6166666666666667
+12,5f0b062853f8960008793934,CR Ph1 Low Reward,0.4833333333333333
+13,5f0b062853f8960008793934,CR Ph2 High Reward,0.5166666666666666
+14,5f0b062853f8960008793934,CR Ph2 Low Reward,0.6166666666666667
+15,5f0b062853f8960008793934,DP Overall,2.236597631510259
+16,5f0b062853f8960008793934,DP Overall High Reward,2.2808634665257896
+17,5f0b062853f8960008793934,DP Overall Low Reward,2.1970478315312136
+18,5f0b062853f8960008793934,DP Ph1 High Reward,2.436318388336586
+19,5f0b062853f8960008793934,DP Ph1 Low Reward,2.004450534819871
+20,5f0b062853f8960008793934,DP Ph2 High Reward,2.1385007257781896
+21,5f0b062853f8960008793934,DP Ph2 Low Reward,2.41621808549111
+22,5f0b062853f8960008793934,PHQ Score,1
+23,5f0b062853f8960008793934,PHQ Attention Check,1
+24,5f0b062853f8960008793934,Memory Test RT,2844.8516666561363
+25,5f0b062853f8960008793934,Memory Certainty Count,"      response
+0.0         45
+12.0        27
+24.0        35
+48.0        60
+60.0        58
+72.0        15"
+26,5f0b062853f8960008793934,Memory Certainty Correct Count,"      response
+0.0         43
+12.0        23
+24.0        21
+48.0        37
+60.0        50
+72.0        13"
+27,5f0b062853f8960008793934,Rewarded Category,Object
+28,5f0b062853f8960008793934,End Survey,"{""Q0"":""Quite surprused"",""Q1"":""Trying to remember what pictures looked familiar"",""Q2"":""4""}"
+29,5f0b062853f8960008793934,End Survey2,"{""Q0"":""Yes"",""Q1"":""No I didn't""}"
+0,5c5b50e8fbf35700018c8dde,Overall PC,0.9
+1,5c5b50e8fbf35700018c8dde,Age,22
+2,5c5b50e8fbf35700018c8dde,Sex,SexFemale
+3,5c5b50e8fbf35700018c8dde,Bonus,5
+4,5c5b50e8fbf35700018c8dde,Overall Match Accuracy,0.8833333333333333
+5,5c5b50e8fbf35700018c8dde,Overall Match RT,416.5221238938084
+6,5c5b50e8fbf35700018c8dde,CR Overall,0.8
+7,5c5b50e8fbf35700018c8dde,HR Overall,0.8666666666666667
+8,5c5b50e8fbf35700018c8dde,FA Overall,0.06666666666666667
+9,5c5b50e8fbf35700018c8dde,CR Overall High Reward,0.75
+10,5c5b50e8fbf35700018c8dde,CR Overall Low Reward,0.85
+11,5c5b50e8fbf35700018c8dde,CR Ph1 High Reward,0.7166666666666667
+12,5c5b50e8fbf35700018c8dde,CR Ph1 Low Reward,0.85
+13,5c5b50e8fbf35700018c8dde,CR Ph2 High Reward,0.7833333333333333
+14,5c5b50e8fbf35700018c8dde,CR Ph2 Low Reward,0.85
+15,5c5b50e8fbf35700018c8dde,DP Overall,3.315559672704121
+16,5c5b50e8fbf35700018c8dde,DP Overall High Reward,2.9871057208418286
+17,5c5b50e8fbf35700018c8dde,DP Overall Low Reward,4.013896800907058
+18,5c5b50e8fbf35700018c8dde,DP Ph1 High Reward,2.8381669825234552
+19,5c5b50e8fbf35700018c8dde,DP Ph1 Low Reward,4.013896800907058
+20,5c5b50e8fbf35700018c8dde,DP Ph2 High Reward,3.167209410623692
+21,5c5b50e8fbf35700018c8dde,DP Ph2 Low Reward,4.013896800907058
+22,5c5b50e8fbf35700018c8dde,PHQ Score,1
+23,5c5b50e8fbf35700018c8dde,PHQ Attention Check,1
+24,5c5b50e8fbf35700018c8dde,Memory Test RT,2962.766666666666
+25,5c5b50e8fbf35700018c8dde,Memory Certainty Count,"      response
+0.0         66
+12.0        21
+24.0        25
+48.0        44
+60.0        41
+72.0        43"
+26,5c5b50e8fbf35700018c8dde,Memory Certainty Correct Count,"      response
+0.0         65
+12.0        21
+24.0        18
+48.0        36
+60.0        33
+72.0        43"
+27,5c5b50e8fbf35700018c8dde,Rewarded Category,Object
+28,5c5b50e8fbf35700018c8dde,End Survey,"{""Q0"":""I was surprised by how certain I was on some things, whereas other things felt a lot harder to be sure of."",""Q1"":""I just tried to remember it to be honest!"",""Q2"":""5""}"
+29,5c5b50e8fbf35700018c8dde,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,61670855a4865f370849daf6,Overall PC,0.8958333333333334
+1,61670855a4865f370849daf6,Age,26
+2,61670855a4865f370849daf6,Sex,SexFemale
+3,61670855a4865f370849daf6,Bonus,5.25
+4,61670855a4865f370849daf6,Overall Match Accuracy,0.9
+5,61670855a4865f370849daf6,Overall Match RT,434.02831801693
+6,61670855a4865f370849daf6,CR Overall,0.7916666666666666
+7,61670855a4865f370849daf6,HR Overall,0.9083333333333333
+8,61670855a4865f370849daf6,FA Overall,0.11666666666666667
+9,61670855a4865f370849daf6,CR Overall High Reward,0.7166666666666667
+10,61670855a4865f370849daf6,CR Overall Low Reward,0.8666666666666667
+11,61670855a4865f370849daf6,CR Ph1 High Reward,0.6666666666666667
+12,61670855a4865f370849daf6,CR Ph1 Low Reward,0.8666666666666667
+13,61670855a4865f370849daf6,CR Ph2 High Reward,0.7666666666666667
+14,61670855a4865f370849daf6,CR Ph2 Low Reward,0.8666666666666667
+15,61670855a4865f370849daf6,DP Overall,3.219467058639138
+16,61670855a4865f370849daf6,DP Overall High Reward,2.825750898747606
+17,61670855a4865f370849daf6,DP Overall Low Reward,3.87314838603376
+18,61670855a4865f370849daf6,DP Ph1 High Reward,2.6263699198863075
+19,61670855a4865f370849daf6,DP Ph1 Low Reward,3.87314838603376
+20,61670855a4865f370849daf6,DP Ph2 High Reward,3.0813615633194096
+21,61670855a4865f370849daf6,DP Ph2 Low Reward,3.87314838603376
+22,61670855a4865f370849daf6,PHQ Score,1
+23,61670855a4865f370849daf6,PHQ Attention Check,1
+24,61670855a4865f370849daf6,Memory Test RT,2881.695416545868
+25,61670855a4865f370849daf6,Memory Certainty Count,"      response
+0.0         66
+12.0        25
+24.0        32
+48.0        26
+60.0        32
+72.0        59"
+26,61670855a4865f370849daf6,Memory Certainty Correct Count,"      response
+0.0         65
+12.0        23
+24.0        21
+48.0        22
+60.0        27
+72.0        57"
+27,61670855a4865f370849daf6,Rewarded Category,Animal
+28,61670855a4865f370849daf6,End Survey,"{""Q0"":""very surprised"",""Q1"":""purely just asking myself if i'd seen it yesterday (using my picture meory)"",""Q2"":""4""}"
+29,61670855a4865f370849daf6,End Survey2,"{""Q0"":""no"",""Q1"":""no""}"
+0,60e744c0fee95a255b7b3b7c,Overall PC,0.775
+1,60e744c0fee95a255b7b3b7c,Age,33
+2,60e744c0fee95a255b7b3b7c,Sex,SexFemale
+3,60e744c0fee95a255b7b3b7c,Bonus,0.25
+4,60e744c0fee95a255b7b3b7c,Overall Match Accuracy,0.875
+5,60e744c0fee95a255b7b3b7c,Overall Match RT,425.5720720709981
+6,60e744c0fee95a255b7b3b7c,CR Overall,0.55
+7,60e744c0fee95a255b7b3b7c,HR Overall,0.7666666666666667
+8,60e744c0fee95a255b7b3b7c,FA Overall,0.21666666666666667
+9,60e744c0fee95a255b7b3b7c,CR Overall High Reward,0.5166666666666667
+10,60e744c0fee95a255b7b3b7c,CR Overall Low Reward,0.5833333333333333
+11,60e744c0fee95a255b7b3b7c,CR Ph1 High Reward,0.5166666666666667
+12,60e744c0fee95a255b7b3b7c,CR Ph1 Low Reward,0.44999999999999996
+13,60e744c0fee95a255b7b3b7c,CR Ph2 High Reward,0.5166666666666667
+14,60e744c0fee95a255b7b3b7c,CR Ph2 Low Reward,0.7166666666666667
+15,60e744c0fee95a255b7b3b7c,DP Overall,2.182791189391754
+16,60e744c0fee95a255b7b3b7c,DP Overall High Reward,2.085849607436772
+17,60e744c0fee95a255b7b3b7c,DP Overall Low Reward,2.3309126172067214
+18,60e744c0fee95a255b7b3b7c,DP Ph1 High Reward,2.085849607436772
+19,60e744c0fee95a255b7b3b7c,DP Ph1 Low Reward,1.9605051793114747
+20,60e744c0fee95a255b7b3b7c,DP Ph2 High Reward,2.085849607436772
+21,60e744c0fee95a255b7b3b7c,DP Ph2 Low Reward,2.825750898747606
+22,60e744c0fee95a255b7b3b7c,PHQ Score,0
+23,60e744c0fee95a255b7b3b7c,PHQ Attention Check,1
+24,60e744c0fee95a255b7b3b7c,Memory Test RT,3197.777500002086
+25,60e744c0fee95a255b7b3b7c,Memory Certainty Count,"      response
+0.0         88
+12.0        16
+24.0        14
+48.0         5
+60.0        15
+72.0       102"
+26,60e744c0fee95a255b7b3b7c,Memory Certainty Correct Count,"      response
+0.0         77
+12.0         9
+24.0         6
+48.0         4
+60.0         7
+72.0        83"
+27,60e744c0fee95a255b7b3b7c,Rewarded Category,Animal
+28,60e744c0fee95a255b7b3b7c,End Survey,"{""Q0"":""i was expecting it to be some form of memory recall"",""Q1"":""i said out loud what each picture was on day 1 to try lodge it in my brain"",""Q2"":""5""}"
+29,60e744c0fee95a255b7b3b7c,End Survey2,"{""Q0"":""yes"",""Q1"":""animals received the green star reward which was higher""}"
+0,615d74e5910ab5aa13e15292,Overall PC,0.8708333333333333
+1,615d74e5910ab5aa13e15292,Age,28
+2,615d74e5910ab5aa13e15292,Sex,SexFemale
+3,615d74e5910ab5aa13e15292,Bonus,0
+4,615d74e5910ab5aa13e15292,Overall Match Accuracy,0.775
+5,615d74e5910ab5aa13e15292,Overall Match RT,507.11650485436894
+6,615d74e5910ab5aa13e15292,CR Overall,0.7416666666666667
+7,615d74e5910ab5aa13e15292,HR Overall,0.9333333333333333
+8,615d74e5910ab5aa13e15292,FA Overall,0.19166666666666668
+9,615d74e5910ab5aa13e15292,CR Overall High Reward,0.8333333333333334
+10,615d74e5910ab5aa13e15292,CR Overall Low Reward,0.65
+11,615d74e5910ab5aa13e15292,CR Ph1 High Reward,0.8333333333333334
+12,615d74e5910ab5aa13e15292,CR Ph1 Low Reward,0.6833333333333333
+13,615d74e5910ab5aa13e15292,CR Ph2 High Reward,0.8333333333333334
+14,615d74e5910ab5aa13e15292,CR Ph2 Low Reward,0.6166666666666667
+15,615d74e5910ab5aa13e15292,DP Overall,3.060844680237595
+16,615d74e5910ab5aa13e15292,DP Overall High Reward,3.5014603355953744
+17,615d74e5910ab5aa13e15292,DP Overall Low Reward,2.7505344907139335
+18,615d74e5910ab5aa13e15292,DP Ph1 High Reward,3.5014603355953744
+19,615d74e5910ab5aa13e15292,DP Ph1 Low Reward,3.0967321639766863
+20,615d74e5910ab5aa13e15292,DP Ph2 High Reward,3.5014603355953744
+21,615d74e5910ab5aa13e15292,DP Ph2 Low Reward,2.527210198645396
+22,615d74e5910ab5aa13e15292,PHQ Score,1
+23,615d74e5910ab5aa13e15292,PHQ Attention Check,1
+24,615d74e5910ab5aa13e15292,Memory Test RT,3676.008333333333
+25,615d74e5910ab5aa13e15292,Memory Certainty Count,"      response
+0.0        108
+12.0        17
+24.0        10
+48.0        16
+60.0        18
+72.0        71"
+26,615d74e5910ab5aa13e15292,Memory Certainty Correct Count,"      response
+0.0        101
+12.0         8
+24.0         3
+48.0        14
+60.0        16
+72.0        67"
+27,615d74e5910ab5aa13e15292,Rewarded Category,Object
+28,615d74e5910ab5aa13e15292,End Survey,"{""Q0"":""quite surprised"",""Q1"":""just if i remembered them"",""Q2"":""3""}"
+29,615d74e5910ab5aa13e15292,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,615714bae6480413c20d5799,Overall PC,0.8333333333333334
+1,615714bae6480413c20d5799,Age,33
+2,615714bae6480413c20d5799,Sex,SexFemale
+3,615714bae6480413c20d5799,Bonus,5.25
+4,615714bae6480413c20d5799,Overall Match Accuracy,0.9166666666666666
+5,615714bae6480413c20d5799,Overall Match RT,394.140350877193
+6,615714bae6480413c20d5799,CR Overall,0.6666666666666666
+7,615714bae6480413c20d5799,HR Overall,0.9083333333333333
+8,615714bae6480413c20d5799,FA Overall,0.24166666666666667
+9,615714bae6480413c20d5799,CR Overall High Reward,0.6499999999999999
+10,615714bae6480413c20d5799,CR Overall Low Reward,0.6833333333333333
+11,615714bae6480413c20d5799,CR Ph1 High Reward,0.6333333333333333
+12,615714bae6480413c20d5799,CR Ph1 Low Reward,0.6833333333333333
+13,615714bae6480413c20d5799,CR Ph2 High Reward,0.6666666666666667
+14,615714bae6480413c20d5799,CR Ph2 Low Reward,0.6833333333333333
+15,615714bae6480413c20d5799,DP Overall,2.706992958200105
+16,615714bae6480413c20d5799,DP Overall High Reward,3.2584442119643873
+17,615714bae6480413c20d5799,DP Overall Low Reward,2.6787583537892585
+18,615714bae6480413c20d5799,DP Ph1 High Reward,2.9474909362588666
+19,615714bae6480413c20d5799,DP Ph1 Low Reward,2.6787583537892585
+20,615714bae6480413c20d5799,DP Ph2 High Reward,3.4734243892848595
+21,615714bae6480413c20d5799,DP Ph2 Low Reward,2.6787583537892585
+22,615714bae6480413c20d5799,PHQ Score,0
+23,615714bae6480413c20d5799,PHQ Attention Check,1
+24,615714bae6480413c20d5799,Memory Test RT,3623.679166666667
+25,615714bae6480413c20d5799,Memory Certainty Count,"      response
+0.0         80
+12.0        30
+24.0        28
+48.0        81
+60.0        20
+72.0         1"
+26,615714bae6480413c20d5799,Memory Certainty Correct Count,"      response
+0.0         78
+12.0        19
+24.0        12
+48.0        72
+60.0        18
+72.0         1"
+27,615714bae6480413c20d5799,Rewarded Category,Object
+28,615714bae6480413c20d5799,End Survey,"{""Q0"":""A little"",""Q1"":""Tried to remember whether I had any thoughts or associations of the picture from yesterday"",""Q2"":""4""}"
+29,615714bae6480413c20d5799,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,61583e5838de2383e5d85e8e,Overall PC,0.8075313807531381
+1,61583e5838de2383e5d85e8e,Age,34
+2,61583e5838de2383e5d85e8e,Sex,SexFemale
+3,61583e5838de2383e5d85e8e,Bonus,5.25
+4,61583e5838de2383e5d85e8e,Overall Match Accuracy,0.8916666666666667
+5,61583e5838de2383e5d85e8e,Overall Match RT,446.58738737922533
+6,61583e5838de2383e5d85e8e,CR Overall,0.6159663865546218
+7,61583e5838de2383e5d85e8e,HR Overall,0.7
+8,61583e5838de2383e5d85e8e,FA Overall,0.08403361344537816
+9,61583e5838de2383e5d85e8e,CR Overall High Reward,0.5830508474576271
+10,61583e5838de2383e5d85e8e,CR Overall Low Reward,0.65
+11,61583e5838de2383e5d85e8e,CR Ph1 High Reward,0.5497175141242938
+12,61583e5838de2383e5d85e8e,CR Ph1 Low Reward,0.65
+13,61583e5838de2383e5d85e8e,CR Ph2 High Reward,0.6163841807909605
+14,61583e5838de2383e5d85e8e,CR Ph2 Low Reward,0.65
+15,61583e5838de2383e5d85e8e,DP Overall,2.576094316286939
+16,61583e5838de2383e5d85e8e,DP Overall High Reward,3.062708045188091
+17,61583e5838de2383e5d85e8e,DP Overall Low Reward,2.5510025105394916
+18,61583e5838de2383e5d85e8e,DP Ph1 High Reward,2.973085130227416
+19,61583e5838de2383e5d85e8e,DP Ph1 Low Reward,2.5510025105394916
+20,61583e5838de2383e5d85e8e,DP Ph2 High Reward,3.155098162048739
+21,61583e5838de2383e5d85e8e,DP Ph2 Low Reward,2.5510025105394916
+22,61583e5838de2383e5d85e8e,PHQ Score,0
+23,61583e5838de2383e5d85e8e,PHQ Attention Check,1
+24,61583e5838de2383e5d85e8e,Memory Test RT,3277.859832631993
+25,61583e5838de2383e5d85e8e,Memory Certainty Count,"      response
+0.0         58
+12.0        14
+24.0        21
+36.0         2
+48.0        23
+60.0        59
+72.0        62"
+26,61583e5838de2383e5d85e8e,Memory Certainty Correct Count,"      response
+0.0         57
+12.0        13
+24.0        14
+48.0        13
+60.0        42
+72.0        54"
+27,61583e5838de2383e5d85e8e,Rewarded Category,Animal
+28,61583e5838de2383e5d85e8e,End Survey,"{""Q0"":""I thought that might have been part of test 1 so not very surprised "",""Q1"":""Recognition vs items I was surprised to see; making me believe they weren't present yesterday"",""Q2"":""3""}"
+29,61583e5838de2383e5d85e8e,End Survey2,"{""Q0"":""Yes"",""Q1"":""Animals ""}"
+0,6156edc7c1e67f1d5b4217b1,Overall PC,0.7791666666666667
+1,6156edc7c1e67f1d5b4217b1,Age,31
+2,6156edc7c1e67f1d5b4217b1,Sex,SexMale
+3,6156edc7c1e67f1d5b4217b1,Bonus,5.25
+4,6156edc7c1e67f1d5b4217b1,Overall Match Accuracy,0.9833333333333333
+5,6156edc7c1e67f1d5b4217b1,Overall Match RT,386.12605042016804
+6,6156edc7c1e67f1d5b4217b1,CR Overall,0.5583333333333333
+7,6156edc7c1e67f1d5b4217b1,HR Overall,0.6666666666666666
+8,6156edc7c1e67f1d5b4217b1,FA Overall,0.10833333333333334
+9,6156edc7c1e67f1d5b4217b1,CR Overall High Reward,0.4666666666666667
+10,6156edc7c1e67f1d5b4217b1,CR Overall Low Reward,0.6499999999999999
+11,6156edc7c1e67f1d5b4217b1,CR Ph1 High Reward,0.43333333333333335
+12,6156edc7c1e67f1d5b4217b1,CR Ph1 Low Reward,0.6833333333333332
+13,6156edc7c1e67f1d5b4217b1,CR Ph2 High Reward,0.5
+14,6156edc7c1e67f1d5b4217b1,CR Ph2 Low Reward,0.6166666666666666
+15,6156edc7c1e67f1d5b4217b1,DP Overall,2.337737867739504
+16,6156edc7c1e67f1d5b4217b1,DP Overall High Reward,1.9789640461663862
+17,6156edc7c1e67f1d5b4217b1,DP Overall Low Reward,2.848512228291159
+18,6156edc7c1e67f1d5b4217b1,DP Ph1 High Reward,1.8908378402693173
+19,6156edc7c1e67f1d5b4217b1,DP Ph1 Low Reward,2.950761019631831
+20,6156edc7c1e67f1d5b4217b1,DP Ph2 High Reward,2.069372240107848
+21,6156edc7c1e67f1d5b4217b1,DP Ph2 Low Reward,2.752100516944661
+22,6156edc7c1e67f1d5b4217b1,PHQ Score,2
+23,6156edc7c1e67f1d5b4217b1,PHQ Attention Check,1
+24,6156edc7c1e67f1d5b4217b1,Memory Test RT,2969.0583333333334
+25,6156edc7c1e67f1d5b4217b1,Memory Certainty Count,"      response
+0.0         51
+12.0        22
+24.0        20
+48.0        20
+60.0        31
+72.0        96"
+26,6156edc7c1e67f1d5b4217b1,Memory Certainty Correct Count,"      response
+0.0         50
+12.0        17
+24.0        13
+48.0        10
+60.0        23
+72.0        74"
+27,6156edc7c1e67f1d5b4217b1,Rewarded Category,Animal
+28,6156edc7c1e67f1d5b4217b1,End Survey,"{""Q0"":""I had a feeling that this might happen, as psychology tests often tried to deceive you from their true nature in order to study without bias or similar."",""Q1"":""Whether or not I had an immediate recollection of the image or distinct lack of recollection, otherwise I took a few seconds to decide."",""Q2"":""2""}"
+29,6156edc7c1e67f1d5b4217b1,End Survey2,"{""Q0"":""Yes"",""Q1"":""Animals""}"
+0,6158a393006089c341aea029,Overall PC,0.8535564853556485
+1,6158a393006089c341aea029,Age,26
+2,6158a393006089c341aea029,Sex,SexFemale
+3,6158a393006089c341aea029,Bonus,5.25
+4,6158a393006089c341aea029,Overall Match Accuracy,0.9416666666666667
+5,6158a393006089c341aea029,Overall Match RT,450.3460869519607
+6,6158a393006089c341aea029,CR Overall,0.7070028011204482
+7,6158a393006089c341aea029,HR Overall,0.8666666666666667
+8,6158a393006089c341aea029,FA Overall,0.15966386554621848
+9,6158a393006089c341aea029,CR Overall High Reward,0.6966101694915254
+10,6158a393006089c341aea029,CR Overall Low Reward,0.7166666666666667
+11,6158a393006089c341aea029,CR Ph1 High Reward,0.7632768361581921
+12,6158a393006089c341aea029,CR Ph1 Low Reward,0.7166666666666667
+13,6158a393006089c341aea029,CR Ph2 High Reward,0.6299435028248588
+14,6158a393006089c341aea029,CR Ph2 Low Reward,0.7166666666666667
+15,6158a393006089c341aea029,DP Overall,2.783956719622976
+16,6158a393006089c341aea029,DP Overall High Reward,2.7885970256362396
+17,6158a393006089c341aea029,DP Overall Low Reward,2.8381669825234552
+18,6158a393006089c341aea029,DP Ph1 High Reward,3.371414108841322
+19,6158a393006089c341aea029,DP Ph1 Low Reward,2.8381669825234552
+20,6158a393006089c341aea029,DP Ph2 High Reward,2.4691828741037214
+21,6158a393006089c341aea029,DP Ph2 Low Reward,2.8381669825234552
+22,6158a393006089c341aea029,PHQ Score,2
+23,6158a393006089c341aea029,PHQ Attention Check,1
+24,6158a393006089c341aea029,Memory Test RT,2739.43849372764
+25,6158a393006089c341aea029,Memory Certainty Count,"      response
+0.0         73
+12.0        29
+24.0        21
+48.0        12
+60.0        18
+72.0        86"
+26,6158a393006089c341aea029,Memory Certainty Correct Count,"      response
+0.0         72
+12.0        22
+24.0        10
+48.0         8
+60.0        14
+72.0        78"
+27,6158a393006089c341aea029,Rewarded Category,Animal
+28,6158a393006089c341aea029,End Survey,"{""Q0"":""very, i could definitely remember most but not certain on others"",""Q1"":""relating to things i liked or had "",""Q2"":""2""}"
+29,6158a393006089c341aea029,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,615d916c78c5a25a39a73a68,Overall PC,0.726890756302521
+1,615d916c78c5a25a39a73a68,Age,32
+2,615d916c78c5a25a39a73a68,Sex,SexFemale
+3,615d916c78c5a25a39a73a68,Bonus,5
+4,615d916c78c5a25a39a73a68,Overall Match Accuracy,0.7916666666666666
+5,615d916c78c5a25a39a73a68,Overall Match RT,459.96764705883675
+6,615d916c78c5a25a39a73a68,CR Overall,0.4516949152542372
+7,615d916c78c5a25a39a73a68,HR Overall,0.6016949152542372
+8,615d916c78c5a25a39a73a68,FA Overall,0.15
+9,615d916c78c5a25a39a73a68,CR Overall High Reward,0.37457627118644066
+10,615d916c78c5a25a39a73a68,CR Overall Low Reward,0.5288135593220338
+11,615d916c78c5a25a39a73a68,CR Ph1 High Reward,0.3137931034482758
+12,615d916c78c5a25a39a73a68,CR Ph1 Low Reward,0.4551724137931034
+13,615d916c78c5a25a39a73a68,CR Ph2 High Reward,0.43333333333333335
+14,615d916c78c5a25a39a73a68,CR Ph2 Low Reward,0.6000000000000001
+15,615d916c78c5a25a39a73a68,DP Overall,1.9649258795777735
+16,615d916c78c5a25a39a73a68,DP Overall High Reward,1.8878134240876248
+17,615d916c78c5a25a39a73a68,DP Overall Low Reward,2.122170744031899
+18,615d916c78c5a25a39a73a68,DP Ph1 High Reward,1.7307075569817663
+19,615d916c78c5a25a39a73a68,DP Ph1 Low Reward,1.911240037452953
+20,615d916c78c5a25a39a73a68,DP Ph2 High Reward,2.0363266864105656
+21,615d916c78c5a25a39a73a68,DP Ph2 Low Reward,2.3548600648214664
+22,615d916c78c5a25a39a73a68,PHQ Score,2
+23,615d916c78c5a25a39a73a68,PHQ Attention Check,1
+24,615d916c78c5a25a39a73a68,Memory Test RT,1775.0693277309358
+25,615d916c78c5a25a39a73a68,Memory Certainty Count,"      response
+0.0         50
+12.0        18
+24.0        20
+36.0         2
+48.0       127
+60.0        13
+72.0         8"
+26,615d916c78c5a25a39a73a68,Memory Certainty Correct Count,"      response
+0.0         45
+12.0        14
+24.0        12
+48.0        84
+60.0        10
+72.0         8"
+27,615d916c78c5a25a39a73a68,Rewarded Category,Object
+28,615d916c78c5a25a39a73a68,End Survey,"{""Q0"":""quite aurprised"",""Q1"":""just trying to recall what i had seen yesterday"",""Q2"":""3""}"
+29,615d916c78c5a25a39a73a68,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,61660b70796d9c72e859cd1c,Overall PC,0.9208333333333333
+1,61660b70796d9c72e859cd1c,Age,28
+2,61660b70796d9c72e859cd1c,Sex,SexFemale
+3,61660b70796d9c72e859cd1c,Bonus,5.25
+4,61660b70796d9c72e859cd1c,Overall Match Accuracy,0.9166666666666666
+5,61660b70796d9c72e859cd1c,Overall Match RT,433.64601769918096
+6,61660b70796d9c72e859cd1c,CR Overall,0.8416666666666667
+7,61660b70796d9c72e859cd1c,HR Overall,0.9416666666666667
+8,61660b70796d9c72e859cd1c,FA Overall,0.1
+9,61660b70796d9c72e859cd1c,CR Overall High Reward,0.8166666666666667
+10,61660b70796d9c72e859cd1c,CR Overall Low Reward,0.8666666666666667
+11,61660b70796d9c72e859cd1c,CR Ph1 High Reward,0.8
+12,61660b70796d9c72e859cd1c,CR Ph1 Low Reward,0.9
+13,61660b70796d9c72e859cd1c,CR Ph2 High Reward,0.8333333333333334
+14,61660b70796d9c72e859cd1c,CR Ph2 Low Reward,0.8333333333333334
+15,61660b70796d9c72e859cd1c,DP Overall,3.5762167798664204
+16,61660b70796d9c72e859cd1c,DP Overall High Reward,3.471836374476114
+17,61660b70796d9c72e859cd1c,DP Overall Low Reward,3.745263838438764
+18,61660b70796d9c72e859cd1c,DP Ph1 High Reward,3.315559672704121
+19,61660b70796d9c72e859cd1c,DP Ph1 Low Reward,4.124677710670219
+20,61660b70796d9c72e859cd1c,DP Ph2 High Reward,3.680904895197756
+21,61660b70796d9c72e859cd1c,DP Ph2 Low Reward,3.5014603355953744
+22,61660b70796d9c72e859cd1c,PHQ Score,2
+23,61660b70796d9c72e859cd1c,PHQ Attention Check,1
+24,61660b70796d9c72e859cd1c,Memory Test RT,2676.842500000028
+25,61660b70796d9c72e859cd1c,Memory Certainty Count,"      response
+0.0         90
+12.0        20
+24.0        15
+48.0        23
+60.0        30
+72.0        62"
+26,61660b70796d9c72e859cd1c,Memory Certainty Correct Count,"      response
+0.0         88
+12.0        18
+24.0         7
+48.0        19
+60.0        28
+72.0        61"
+27,61660b70796d9c72e859cd1c,Rewarded Category,Object
+28,61660b70796d9c72e859cd1c,End Survey,"{""Q0"":""Quite, I was not expecting that"",""Q1"":""No strategy, I think I just remembered a lot"",""Q2"":""4""}"
+29,61660b70796d9c72e859cd1c,End Survey2,"{""Q0"":""Yes"",""Q1"":""I thought it was objects but not 100% sure""}"
+0,61560bb2deb10241c3dfda72,Overall PC,0.7041666666666667
+1,61560bb2deb10241c3dfda72,Age,29
+2,61560bb2deb10241c3dfda72,Sex,SexFemale
+3,61560bb2deb10241c3dfda72,Bonus,5.25
+4,61560bb2deb10241c3dfda72,Overall Match Accuracy,0.9333333333333333
+5,61560bb2deb10241c3dfda72,Overall Match RT,433.5964912281355
+6,61560bb2deb10241c3dfda72,CR Overall,0.40833333333333327
+7,61560bb2deb10241c3dfda72,HR Overall,0.7916666666666666
+8,61560bb2deb10241c3dfda72,FA Overall,0.38333333333333336
+9,61560bb2deb10241c3dfda72,CR Overall High Reward,0.3666666666666667
+10,61560bb2deb10241c3dfda72,CR Overall Low Reward,0.45
+11,61560bb2deb10241c3dfda72,CR Ph1 High Reward,0.3666666666666667
+12,61560bb2deb10241c3dfda72,CR Ph1 Low Reward,0.36666666666666664
+13,61560bb2deb10241c3dfda72,CR Ph2 High Reward,0.3666666666666667
+14,61560bb2deb10241c3dfda72,CR Ph2 Low Reward,0.5333333333333334
+15,61560bb2deb10241c3dfda72,DP Overall,1.7770945187797076
+16,61560bb2deb10241c3dfda72,DP Overall High Reward,1.7789525856497874
+17,61560bb2deb10241c3dfda72,DP Overall Low Reward,1.8656376468659388
+18,61560bb2deb10241c3dfda72,DP Ph1 High Reward,1.7789525856497874
+19,61560bb2deb10241c3dfda72,DP Ph1 Low Reward,1.6268480359315274
+20,61560bb2deb10241c3dfda72,DP Ph2 High Reward,1.7789525856497874
+21,61560bb2deb10241c3dfda72,DP Ph2 Low Reward,2.135884175169272
+22,61560bb2deb10241c3dfda72,PHQ Score,0
+23,61560bb2deb10241c3dfda72,PHQ Attention Check,1
+24,61560bb2deb10241c3dfda72,Memory Test RT,3625.6587499990437
+25,61560bb2deb10241c3dfda72,Memory Certainty Count,"      response
+0.0        104
+12.0        26
+24.0        11
+48.0        16
+60.0        38
+72.0        45"
+26,61560bb2deb10241c3dfda72,Memory Certainty Correct Count,"      response
+0.0         74
+12.0        17
+24.0         4
+48.0        11
+60.0        28
+72.0        35"
+27,61560bb2deb10241c3dfda72,Rewarded Category,Object
+28,61560bb2deb10241c3dfda72,End Survey,"{""Q0"":""Very"",""Q1"":""I just tried to think if the image rung a bell with me or not. "",""Q2"":""4""}"
+29,61560bb2deb10241c3dfda72,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,59dbcbf568e0b00001c15f9a,Overall PC,0.6708333333333333
+1,59dbcbf568e0b00001c15f9a,Age,30
+2,59dbcbf568e0b00001c15f9a,Sex,SexFemale
+3,59dbcbf568e0b00001c15f9a,Bonus,5
+4,59dbcbf568e0b00001c15f9a,Overall Match Accuracy,0.9166666666666666
+5,59dbcbf568e0b00001c15f9a,Overall Match RT,429.6429824561183
+6,59dbcbf568e0b00001c15f9a,CR Overall,0.3416666666666667
+7,59dbcbf568e0b00001c15f9a,HR Overall,0.49166666666666664
+8,59dbcbf568e0b00001c15f9a,FA Overall,0.15
+9,59dbcbf568e0b00001c15f9a,CR Overall High Reward,0.35
+10,59dbcbf568e0b00001c15f9a,CR Overall Low Reward,0.33333333333333337
+11,59dbcbf568e0b00001c15f9a,CR Ph1 High Reward,0.35
+12,59dbcbf568e0b00001c15f9a,CR Ph1 Low Reward,0.35
+13,59dbcbf568e0b00001c15f9a,CR Ph2 High Reward,0.35
+14,59dbcbf568e0b00001c15f9a,CR Ph2 Low Reward,0.31666666666666665
+15,59dbcbf568e0b00001c15f9a,DP Overall,1.680912167225817
+16,59dbcbf568e0b00001c15f9a,DP Overall High Reward,1.702533354943902
+17,59dbcbf568e0b00001c15f9a,DP Overall Low Reward,1.659209043962703
+18,59dbcbf568e0b00001c15f9a,DP Ph1 High Reward,1.702533354943902
+19,59dbcbf568e0b00001c15f9a,DP Ph1 Low Reward,1.702533354943902
+20,59dbcbf568e0b00001c15f9a,DP Ph2 High Reward,1.702533354943902
+21,59dbcbf568e0b00001c15f9a,DP Ph2 Low Reward,1.6154986141624332
+22,59dbcbf568e0b00001c15f9a,PHQ Score,1
+23,59dbcbf568e0b00001c15f9a,PHQ Attention Check,1
+24,59dbcbf568e0b00001c15f9a,Memory Test RT,3046.1554166666633
+25,59dbcbf568e0b00001c15f9a,Memory Certainty Count,"      response
+0.0         32
+12.0        22
+24.0        23
+48.0        38
+60.0        58
+72.0        67"
+26,59dbcbf568e0b00001c15f9a,Memory Certainty Correct Count,"      response
+0.0         26
+12.0        17
+24.0        16
+48.0        23
+60.0        30
+72.0        49"
+27,59dbcbf568e0b00001c15f9a,Rewarded Category,Object
+28,59dbcbf568e0b00001c15f9a,End Survey,"{""Q0"":""Not at all"",""Q1"":""I just tried to remember the ones I reacted to (eg they were cute or I had asked myself what the heck was that used for?! etc..)"",""Q2"":""3""}"
+29,59dbcbf568e0b00001c15f9a,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,615e0a9b470e2794d8318046,Overall PC,0.8333333333333334
+1,615e0a9b470e2794d8318046,Age,33
+2,615e0a9b470e2794d8318046,Sex,SexFemale
+3,615e0a9b470e2794d8318046,Bonus,5.25
+4,615e0a9b470e2794d8318046,Overall Match Accuracy,0.95
+5,615e0a9b470e2794d8318046,Overall Match RT,392.5555555556033
+6,615e0a9b470e2794d8318046,CR Overall,0.6666666666666667
+7,615e0a9b470e2794d8318046,HR Overall,0.8083333333333333
+8,615e0a9b470e2794d8318046,FA Overall,0.14166666666666666
+9,615e0a9b470e2794d8318046,CR Overall High Reward,0.5833333333333333
+10,615e0a9b470e2794d8318046,CR Overall Low Reward,0.75
+11,615e0a9b470e2794d8318046,CR Ph1 High Reward,0.4666666666666666
+12,615e0a9b470e2794d8318046,CR Ph1 Low Reward,0.75
+13,615e0a9b470e2794d8318046,CR Ph2 High Reward,0.7
+14,615e0a9b470e2794d8318046,CR Ph2 Low Reward,0.75
+15,615e0a9b470e2794d8318046,DP Overall,2.61848548340947
+16,615e0a9b470e2794d8318046,DP Overall High Reward,2.2966073957222215
+17,615e0a9b470e2794d8318046,DP Overall Low Reward,3.0372408344690354
+18,615e0a9b470e2794d8318046,DP Ph1 High Reward,1.9429380260672788
+19,615e0a9b470e2794d8318046,DP Ph1 Low Reward,3.0372408344690354
+20,615e0a9b470e2794d8318046,DP Ph2 High Reward,2.8009906459885636
+21,615e0a9b470e2794d8318046,DP Ph2 Low Reward,3.0372408344690354
+22,615e0a9b470e2794d8318046,PHQ Score,0
+23,615e0a9b470e2794d8318046,PHQ Attention Check,1
+24,615e0a9b470e2794d8318046,Memory Test RT,2700.585416666915
+25,615e0a9b470e2794d8318046,Memory Certainty Count,"      response
+0.0         92
+12.0        15
+24.0         7
+48.0         7
+60.0        22
+72.0        97"
+26,615e0a9b470e2794d8318046,Memory Certainty Correct Count,"      response
+0.0         86
+12.0         9
+24.0         2
+48.0         5
+60.0        14
+72.0        84"
+27,615e0a9b470e2794d8318046,Rewarded Category,Object
+28,615e0a9b470e2794d8318046,End Survey,"{""Q0"":""Very"",""Q1"":""Just tried to look and see if images were familiar to me"",""Q2"":""4""}"
+29,615e0a9b470e2794d8318046,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,616821f29b3974a53e0ce94e,Overall PC,0.7949790794979079
+1,616821f29b3974a53e0ce94e,Age,31
+2,616821f29b3974a53e0ce94e,Sex,SexFemale
+3,616821f29b3974a53e0ce94e,Bonus,0.25
+4,616821f29b3974a53e0ce94e,Overall Match Accuracy,0.85
+5,616821f29b3974a53e0ce94e,Overall Match RT,436.1927272727544
+6,616821f29b3974a53e0ce94e,CR Overall,0.5897759103641457
+7,616821f29b3974a53e0ce94e,HR Overall,0.773109243697479
+8,616821f29b3974a53e0ce94e,FA Overall,0.18333333333333332
+9,616821f29b3974a53e0ce94e,CR Overall High Reward,0.55
+10,616821f29b3974a53e0ce94e,CR Overall Low Reward,0.6296610169491526
+11,616821f29b3974a53e0ce94e,CR Ph1 High Reward,0.55
+12,616821f29b3974a53e0ce94e,CR Ph1 Low Reward,0.65
+13,616821f29b3974a53e0ce94e,CR Ph2 High Reward,0.55
+14,616821f29b3974a53e0ce94e,CR Ph2 Low Reward,0.6086206896551724
+15,616821f29b3974a53e0ce94e,DP Overall,2.323396801884217
+16,616821f29b3974a53e0ce94e,DP Overall High Reward,2.182791189391754
+17,616821f29b3974a53e0ce94e,DP Overall Low Reward,2.4797490748464073
+18,616821f29b3974a53e0ce94e,DP Ph1 High Reward,2.182791189391754
+19,616821f29b3974a53e0ce94e,DP Ph1 Low Reward,2.5510025105394916
+20,616821f29b3974a53e0ce94e,DP Ph2 High Reward,2.182791189391754
+21,616821f29b3974a53e0ce94e,DP Ph2 Low Reward,2.4101379723406002
+22,616821f29b3974a53e0ce94e,PHQ Score,1
+23,616821f29b3974a53e0ce94e,PHQ Attention Check,1
+24,616821f29b3974a53e0ce94e,Memory Test RT,2470.82552301261
+25,616821f29b3974a53e0ce94e,Memory Certainty Count,"      response
+0.0         62
+12.0        26
+24.0        26
+48.0        24
+60.0        53
+72.0        48"
+26,616821f29b3974a53e0ce94e,Memory Certainty Correct Count,"      response
+0.0         58
+12.0        19
+24.0        15
+48.0        15
+60.0        43
+72.0        40"
+27,616821f29b3974a53e0ce94e,Rewarded Category,Animal
+28,616821f29b3974a53e0ce94e,End Survey,"{""Q0"":""Quite"",""Q1"":""Trying to remember questions I had asked myself the day before"",""Q2"":""2""}"
+29,616821f29b3974a53e0ce94e,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,615760128c9cc0dc5cf6febc,Overall PC,0.7447698744769874
+1,615760128c9cc0dc5cf6febc,Age,30
+2,615760128c9cc0dc5cf6febc,Sex,SexMale
+3,615760128c9cc0dc5cf6febc,Bonus,5.25
+4,615760128c9cc0dc5cf6febc,Overall Match Accuracy,0.8833333333333333
+5,615760128c9cc0dc5cf6febc,Overall Match RT,446.8037383177518
+6,615760128c9cc0dc5cf6febc,CR Overall,0.4885854341736694
+7,615760128c9cc0dc5cf6febc,HR Overall,0.8583333333333333
+8,615760128c9cc0dc5cf6febc,FA Overall,0.3697478991596639
+9,615760128c9cc0dc5cf6febc,CR Overall High Reward,0.5666666666666667
+10,615760128c9cc0dc5cf6febc,CR Overall Low Reward,0.4087570621468926
+11,615760128c9cc0dc5cf6febc,CR Ph1 High Reward,0.6000000000000001
+12,615760128c9cc0dc5cf6febc,CR Ph1 Low Reward,0.392090395480226
+13,615760128c9cc0dc5cf6febc,CR Ph2 High Reward,0.5333333333333334
+14,615760128c9cc0dc5cf6febc,CR Ph2 Low Reward,0.42542372881355933
+15,615760128c9cc0dc5cf6febc,DP Overall,2.0766232190402723
+16,615760128c9cc0dc5cf6febc,DP Overall High Reward,2.2617868563763577
+17,615760128c9cc0dc5cf6febc,DP Overall Low Reward,1.9260283816023929
+18,615760128c9cc0dc5cf6febc,DP Ph1 High Reward,2.4055073504622446
+19,615760128c9cc0dc5cf6febc,DP Ph1 Low Reward,1.8439644593239652
+20,615760128c9cc0dc5cf6febc,DP Ph2 High Reward,2.135884175169272
+21,615760128c9cc0dc5cf6febc,DP Ph2 Low Reward,2.016366450157621
+22,615760128c9cc0dc5cf6febc,PHQ Score,1
+23,615760128c9cc0dc5cf6febc,PHQ Attention Check,1
+24,615760128c9cc0dc5cf6febc,Memory Test RT,2814.811715481171
+25,615760128c9cc0dc5cf6febc,Memory Certainty Count,"      response
+0.0         88
+12.0        25
+24.0        34
+48.0        60
+60.0        26
+72.0         6"
+26,615760128c9cc0dc5cf6febc,Memory Certainty Correct Count,"      response
+0.0         81
+12.0        13
+24.0         9
+48.0        47
+60.0        22
+72.0         6"
+27,615760128c9cc0dc5cf6febc,Rewarded Category,Object
+28,615760128c9cc0dc5cf6febc,End Survey,"{""Q0"":""A little"",""Q1"":""Trying to follow my initial thoughts on whether it seemed familiar or not."",""Q2"":""3""}"
+29,615760128c9cc0dc5cf6febc,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,5c4a3ad6d3a5e3000182c55d,Overall PC,0.7184873949579832
+1,5c4a3ad6d3a5e3000182c55d,Age,21
+2,5c4a3ad6d3a5e3000182c55d,Sex,SexFemale
+3,5c4a3ad6d3a5e3000182c55d,Bonus,5.25
+4,5c4a3ad6d3a5e3000182c55d,Overall Match Accuracy,0.925
+5,5c4a3ad6d3a5e3000182c55d,Overall Match RT,402.6079646017592
+6,5c4a3ad6d3a5e3000182c55d,CR Overall,0.43697478991596633
+7,5c4a3ad6d3a5e3000182c55d,HR Overall,0.6386554621848739
+8,5c4a3ad6d3a5e3000182c55d,FA Overall,0.20168067226890757
+9,5c4a3ad6d3a5e3000182c55d,CR Overall High Reward,0.4576271186440678
+10,5c4a3ad6d3a5e3000182c55d,CR Overall Low Reward,0.4166666666666667
+11,5c4a3ad6d3a5e3000182c55d,CR Ph1 High Reward,0.3828170660432495
+12,5c4a3ad6d3a5e3000182c55d,CR Ph1 Low Reward,0.4666666666666666
+13,5c4a3ad6d3a5e3000182c55d,CR Ph2 High Reward,0.5299435028248587
+14,5c4a3ad6d3a5e3000182c55d,CR Ph2 Low Reward,0.36666666666666664
+15,5c4a3ad6d3a5e3000182c55d,DP Overall,1.8601671729397569
+16,5c4a3ad6d3a5e3000182c55d,DP Overall High Reward,1.9151498707251156
+17,5c4a3ad6d3a5e3000182c55d,DP Overall Low Reward,1.807131493626028
+18,5c4a3ad6d3a5e3000182c55d,DP Ph1 High Reward,1.713827868210226
+19,5c4a3ad6d3a5e3000182c55d,DP Ph1 Low Reward,1.9429380260672788
+20,5c4a3ad6d3a5e3000182c55d,DP Ph2 High Reward,2.123822729824747
+21,5c4a3ad6d3a5e3000182c55d,DP Ph2 Low Reward,1.6746598767206977
+22,5c4a3ad6d3a5e3000182c55d,PHQ Score,2
+23,5c4a3ad6d3a5e3000182c55d,PHQ Attention Check,1
+24,5c4a3ad6d3a5e3000182c55d,Memory Test RT,3779.1037815126138
+25,5c4a3ad6d3a5e3000182c55d,Memory Certainty Count,"      response
+0.0         46
+12.0        29
+24.0        25
+48.0        13
+60.0        26
+72.0        99"
+26,5c4a3ad6d3a5e3000182c55d,Memory Certainty Correct Count,"      response
+0.0         43
+12.0        18
+24.0        15
+48.0         9
+60.0        16
+72.0        70"
+27,5c4a3ad6d3a5e3000182c55d,Rewarded Category,Animal
+28,5c4a3ad6d3a5e3000182c55d,End Survey,"{""Q0"":""Very surprised"",""Q1"":""Said what it was in my head and tried to remember whether I'd seen it before"",""Q2"":""3""}"
+29,5c4a3ad6d3a5e3000182c55d,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,615446374fb0b1b981ffa404,Overall PC,0.8
+1,615446374fb0b1b981ffa404,Age,21
+2,615446374fb0b1b981ffa404,Sex,SexFemale
+3,615446374fb0b1b981ffa404,Bonus,5.25
+4,615446374fb0b1b981ffa404,Overall Match Accuracy,0.9333333333333333
+5,615446374fb0b1b981ffa404,Overall Match RT,448.29396551796077
+6,615446374fb0b1b981ffa404,CR Overall,0.6
+7,615446374fb0b1b981ffa404,HR Overall,0.725
+8,615446374fb0b1b981ffa404,FA Overall,0.125
+9,615446374fb0b1b981ffa404,CR Overall High Reward,0.5833333333333333
+10,615446374fb0b1b981ffa404,CR Overall Low Reward,0.6166666666666667
+11,615446374fb0b1b981ffa404,CR Ph1 High Reward,0.5833333333333333
+12,615446374fb0b1b981ffa404,CR Ph1 Low Reward,0.6666666666666667
+13,615446374fb0b1b981ffa404,CR Ph2 High Reward,0.5833333333333333
+14,615446374fb0b1b981ffa404,CR Ph2 Low Reward,0.5666666666666667
+15,615446374fb0b1b981ffa404,DP Overall,2.419990935442866
+16,615446374fb0b1b981ffa404,DP Overall High Reward,2.3309126172067214
+17,615446374fb0b1b981ffa404,DP Overall Low Reward,2.527210198645396
+18,615446374fb0b1b981ffa404,DP Ph1 High Reward,2.3309126172067214
+19,615446374fb0b1b981ffa404,DP Ph1 Low Reward,2.684480629554784
+20,615446374fb0b1b981ffa404,DP Ph2 High Reward,2.3309126172067214
+21,615446374fb0b1b981ffa404,DP Ph2 Low Reward,2.383996840120534
+22,615446374fb0b1b981ffa404,PHQ Score,2
+23,615446374fb0b1b981ffa404,PHQ Attention Check,1
+24,615446374fb0b1b981ffa404,Memory Test RT,2944.6216666663686
+25,615446374fb0b1b981ffa404,Memory Certainty Count,"      response
+0.0         39
+12.0        32
+24.0        31
+48.0        41
+60.0        44
+72.0        53"
+26,615446374fb0b1b981ffa404,Memory Certainty Correct Count,"      response
+0.0         37
+12.0        30
+24.0        20
+48.0        26
+60.0        35
+72.0        44"
+27,615446374fb0b1b981ffa404,Rewarded Category,Animal
+28,615446374fb0b1b981ffa404,End Survey,"{""Q0"":""Quite suprised"",""Q1"":""Remembering some of the weird names/nicknames I gave the pictures from yesterday"",""Q2"":""4""}"
+29,615446374fb0b1b981ffa404,End Survey2,"{""Q0"":""Yes"",""Q1"":""Animals""}"
+0,616949e6f9ad5072e77a77a3,Overall PC,0.8368200836820083
+1,616949e6f9ad5072e77a77a3,Age,30
+2,616949e6f9ad5072e77a77a3,Sex,SexMale
+3,616949e6f9ad5072e77a77a3,Bonus,5.25
+4,616949e6f9ad5072e77a77a3,Overall Match Accuracy,0.975
+5,616949e6f9ad5072e77a77a3,Overall Match RT,368.70588235269076
+6,616949e6f9ad5072e77a77a3,CR Overall,0.6740196078431372
+7,616949e6f9ad5072e77a77a3,HR Overall,0.7916666666666666
+8,616949e6f9ad5072e77a77a3,FA Overall,0.11764705882352941
+9,616949e6f9ad5072e77a77a3,CR Overall High Reward,0.6477401129943503
+10,616949e6f9ad5072e77a77a3,CR Overall Low Reward,0.7000000000000001
+11,616949e6f9ad5072e77a77a3,CR Ph1 High Reward,0.5644067796610169
+12,616949e6f9ad5072e77a77a3,CR Ph1 Low Reward,0.7333333333333334
+13,616949e6f9ad5072e77a77a3,CR Ph2 High Reward,0.7310734463276837
+14,616949e6f9ad5072e77a77a3,CR Ph2 Low Reward,0.6666666666666667
+15,616949e6f9ad5072e77a77a3,DP Overall,2.6738581916473123
+16,616949e6f9ad5072e77a77a3,DP Overall High Reward,2.556850582094441
+17,616949e6f9ad5072e77a77a3,DP Overall Low Reward,2.8009906459885636
+18,616949e6f9ad5072e77a77a3,DP Ph1 High Reward,2.296220093833047
+19,616949e6f9ad5072e77a77a3,DP Ph1 Low Reward,2.9311737367916386
+20,616949e6f9ad5072e77a77a3,DP Ph2 High Reward,2.8918357467729208
+21,616949e6f9ad5072e77a77a3,DP Ph2 Low Reward,2.684480629554784
+22,616949e6f9ad5072e77a77a3,PHQ Score,1
+23,616949e6f9ad5072e77a77a3,PHQ Attention Check,1
+24,616949e6f9ad5072e77a77a3,Memory Test RT,2235.700836823201
+25,616949e6f9ad5072e77a77a3,Memory Certainty Count,"      response
+0.0         64
+12.0        24
+24.0        21
+48.0        24
+60.0        51
+72.0        55"
+26,616949e6f9ad5072e77a77a3,Memory Certainty Correct Count,"      response
+0.0         61
+12.0        19
+24.0        15
+48.0        17
+60.0        35
+72.0        53"
+27,616949e6f9ad5072e77a77a3,Rewarded Category,Animal
+28,616949e6f9ad5072e77a77a3,End Survey,"{""Q0"":""I was actually very surprised because I was just expecting a questionnaire regarding thoughts on the memory test"",""Q1"":""I looked at the picture then stared at the cross in the middle of the screen and just reacted "",""Q2"":""4""}"
+29,616949e6f9ad5072e77a77a3,End Survey2,"{""Q0"":""Yes, especially so when they were categorized by the stars green being the animals and silver being objects"",""Q1"":""Yes animals""}"
+0,615af5ca8eea1c59f36cbe9c,Overall PC,0.7949790794979079
+1,615af5ca8eea1c59f36cbe9c,Age,20
+2,615af5ca8eea1c59f36cbe9c,Sex,SexMale
+3,615af5ca8eea1c59f36cbe9c,Bonus,0.25
+4,615af5ca8eea1c59f36cbe9c,Overall Match Accuracy,0.95
+5,615af5ca8eea1c59f36cbe9c,Overall Match RT,399.2436974749846
+6,615af5ca8eea1c59f36cbe9c,CR Overall,0.5892857142857143
+7,615af5ca8eea1c59f36cbe9c,HR Overall,0.7142857142857143
+8,615af5ca8eea1c59f36cbe9c,FA Overall,0.125
+9,615af5ca8eea1c59f36cbe9c,CR Overall High Reward,0.5615819209039549
+10,615af5ca8eea1c59f36cbe9c,CR Overall Low Reward,0.6166666666666666
+11,615af5ca8eea1c59f36cbe9c,CR Ph1 High Reward,0.6
+12,615af5ca8eea1c59f36cbe9c,CR Ph1 Low Reward,0.6166666666666666
+13,615af5ca8eea1c59f36cbe9c,CR Ph2 High Reward,0.5218390804597701
+14,615af5ca8eea1c59f36cbe9c,CR Ph2 Low Reward,0.6166666666666666
+15,615af5ca8eea1c59f36cbe9c,DP Overall,2.38803222221177
+16,615af5ca8eea1c59f36cbe9c,DP Overall High Reward,2.292081806049466
+17,615af5ca8eea1c59f36cbe9c,DP Overall Low Reward,2.4870668715196786
+18,615af5ca8eea1c59f36cbe9c,DP Ph1 High Reward,2.4055073504622446
+19,615af5ca8eea1c59f36cbe9c,DP Ph1 Low Reward,2.4870668715196786
+20,615af5ca8eea1c59f36cbe9c,DP Ph2 High Reward,2.181471275675828
+21,615af5ca8eea1c59f36cbe9c,DP Ph2 Low Reward,2.4870668715196786
+22,615af5ca8eea1c59f36cbe9c,PHQ Score,1
+23,615af5ca8eea1c59f36cbe9c,PHQ Attention Check,1
+24,615af5ca8eea1c59f36cbe9c,Memory Test RT,2668.0284518916237
+25,615af5ca8eea1c59f36cbe9c,Memory Certainty Count,"      response
+0.0         42
+12.0        26
+24.0        32
+48.0        25
+60.0        55
+72.0        59"
+26,615af5ca8eea1c59f36cbe9c,Memory Certainty Correct Count,"      response
+0.0         40
+12.0        20
+24.0        25
+48.0        19
+60.0        40
+72.0        46"
+27,615af5ca8eea1c59f36cbe9c,Rewarded Category,Animal
+28,615af5ca8eea1c59f36cbe9c,End Survey,"{""Q0"":""I was surprised but I enjoyed it"",""Q1"":""Tried to remember colours but also which way things were pointing"",""Q2"":""3.5""}"
+29,615af5ca8eea1c59f36cbe9c,End Survey2,"{""Q0"":""Yes now you mentioned it "",""Q1"":""No I thought it was done on how quick you were to answer""}"
+0,6148bd43862a4b655e91b1c0,Overall PC,0.7875
+1,6148bd43862a4b655e91b1c0,Age,32
+2,6148bd43862a4b655e91b1c0,Sex,SexFemale
+3,6148bd43862a4b655e91b1c0,Bonus,5.25
+4,6148bd43862a4b655e91b1c0,Overall Match Accuracy,0.9416666666666667
+5,6148bd43862a4b655e91b1c0,Overall Match RT,421.65431035387104
+6,6148bd43862a4b655e91b1c0,CR Overall,0.575
+7,6148bd43862a4b655e91b1c0,HR Overall,0.7
+8,6148bd43862a4b655e91b1c0,FA Overall,0.125
+9,6148bd43862a4b655e91b1c0,CR Overall High Reward,0.4833333333333333
+10,6148bd43862a4b655e91b1c0,CR Overall Low Reward,0.6666666666666667
+11,6148bd43862a4b655e91b1c0,CR Ph1 High Reward,0.6166666666666667
+12,6148bd43862a4b655e91b1c0,CR Ph1 Low Reward,0.7666666666666667
+13,6148bd43862a4b655e91b1c0,CR Ph2 High Reward,0.35
+14,6148bd43862a4b655e91b1c0,CR Ph2 Low Reward,0.5666666666666667
+15,6148bd43862a4b655e91b1c0,DP Overall,2.3463429268917304
+16,6148bd43862a4b655e91b1c0,DP Overall High Reward,2.0482920324501674
+17,6148bd43862a4b655e91b1c0,DP Overall Low Reward,2.684480629554784
+18,6148bd43862a4b655e91b1c0,DP Ph1 High Reward,2.436318388336586
+19,6148bd43862a4b655e91b1c0,DP Ph1 Low Reward,3.0813615633194096
+20,6148bd43862a4b655e91b1c0,DP Ph2 High Reward,1.702533354943902
+21,6148bd43862a4b655e91b1c0,DP Ph2 Low Reward,2.383996840120534
+22,6148bd43862a4b655e91b1c0,PHQ Score,2
+23,6148bd43862a4b655e91b1c0,PHQ Attention Check,1
+24,6148bd43862a4b655e91b1c0,Memory Test RT,2221.2933333307506
+25,6148bd43862a4b655e91b1c0,Memory Certainty Count,"      response
+0.0         66
+12.0        11
+24.0        22
+48.0        16
+60.0        26
+72.0        99"
+26,6148bd43862a4b655e91b1c0,Memory Certainty Correct Count,"      response
+0.0         61
+12.0        10
+24.0        13
+48.0         7
+60.0        15
+72.0        83"
+27,6148bd43862a4b655e91b1c0,Rewarded Category,Animal
+28,6148bd43862a4b655e91b1c0,End Survey,"{""Q0"":""Quite surprised, i would have maybe paid a lot more attention if I knew I have to remember the items"",""Q1"":""Just tried hard to remember if i had seen the image before "",""Q2"":""3""}"
+29,6148bd43862a4b655e91b1c0,End Survey2,"{""Q0"":""Yes"",""Q1"":""I didnt notice which one got the higher reward""}"
+0,61682ae3ef6d3047f0d72831,Overall PC,0.6333333333333333
+1,61682ae3ef6d3047f0d72831,Age,24
+2,61682ae3ef6d3047f0d72831,Sex,SexMale
+3,61682ae3ef6d3047f0d72831,Bonus,5.25
+4,61682ae3ef6d3047f0d72831,Overall Match Accuracy,0.925
+5,61682ae3ef6d3047f0d72831,Overall Match RT,438.46017699115043
+6,61682ae3ef6d3047f0d72831,CR Overall,0.2666666666666666
+7,61682ae3ef6d3047f0d72831,HR Overall,0.475
+8,61682ae3ef6d3047f0d72831,FA Overall,0.20833333333333334
+9,61682ae3ef6d3047f0d72831,CR Overall High Reward,0.2166666666666667
+10,61682ae3ef6d3047f0d72831,CR Overall Low Reward,0.3166666666666667
+11,61682ae3ef6d3047f0d72831,CR Ph1 High Reward,0.15
+12,61682ae3ef6d3047f0d72831,CR Ph1 Low Reward,0.23333333333333334
+13,61682ae3ef6d3047f0d72831,CR Ph2 High Reward,0.2833333333333333
+14,61682ae3ef6d3047f0d72831,CR Ph2 Low Reward,0.39999999999999997
+15,61682ae3ef6d3047f0d72831,DP Overall,1.3973160432642997
+16,61682ae3ef6d3047f0d72831,DP Overall High Reward,1.2847487055545923
+17,61682ae3ef6d3047f0d72831,DP Overall Low Reward,1.5104190116116116
+18,61682ae3ef6d3047f0d72831,DP Ph1 High Reward,1.0718287379828204
+19,61682ae3ef6d3047f0d72831,DP Ph1 Low Reward,1.2788641505423024
+20,61682ae3ef6d3047f0d72831,DP Ph2 High Reward,1.4733014304346508
+21,61682ae3ef6d3047f0d72831,DP Ph2 Low Reward,1.7357029243344464
+22,61682ae3ef6d3047f0d72831,PHQ Score,1
+23,61682ae3ef6d3047f0d72831,PHQ Attention Check,1
+24,61682ae3ef6d3047f0d72831,Memory Test RT,2352.7083333333335
+25,61682ae3ef6d3047f0d72831,Memory Certainty Count,"      response
+0.0          6
+12.0        20
+24.0        56
+48.0       133
+60.0        20
+72.0         5"
+26,61682ae3ef6d3047f0d72831,Memory Certainty Correct Count,"      response
+0.0          5
+12.0        15
+24.0        37
+48.0        79
+60.0        12
+72.0         4"
+27,61682ae3ef6d3047f0d72831,Rewarded Category,Animal
+28,61682ae3ef6d3047f0d72831,End Survey,"{""Q0"":""I was surpised how some of the items stood out to me straight away"",""Q1"":""Just going on intial gut reaction"",""Q2"":""3""}"
+29,61682ae3ef6d3047f0d72831,End Survey2,"{""Q0"":""Yes I did"",""Q1"":""No""}"
+0,615c5a93bc73540e77449baa,Overall PC,0.7046413502109705
+1,615c5a93bc73540e77449baa,Age,25
+2,615c5a93bc73540e77449baa,Sex,SexMale
+3,615c5a93bc73540e77449baa,Bonus,5.25
+4,615c5a93bc73540e77449baa,Overall Match Accuracy,0.9333333333333333
+5,615c5a93bc73540e77449baa,Overall Match RT,429.2627192981125
+6,615c5a93bc73540e77449baa,CR Overall,0.4111237715425153
+7,615c5a93bc73540e77449baa,HR Overall,0.48739495798319327
+8,615c5a93bc73540e77449baa,FA Overall,0.07627118644067797
+9,615c5a93bc73540e77449baa,CR Overall High Reward,0.3717124488603156
+10,615c5a93bc73540e77449baa,CR Overall Low Reward,0.45
+11,615c5a93bc73540e77449baa,CR Ph1 High Reward,0.564367816091954
+12,615c5a93bc73540e77449baa,CR Ph1 Low Reward,0.45
+13,615c5a93bc73540e77449baa,CR Ph2 High Reward,0.1724137931034483
+14,615c5a93bc73540e77449baa,CR Ph2 Low Reward,0.45
+15,615c5a93bc73540e77449baa,DP Overall,2.0702328717408536
+16,615c5a93bc73540e77449baa,DP Overall High Reward,2.005281821588323
+17,615c5a93bc73540e77449baa,DP Overall Low Reward,2.137985349931688
+18,615c5a93bc73540e77449baa,DP Ph1 High Reward,2.4966396336747954
+19,615c5a93bc73540e77449baa,DP Ph1 Low Reward,2.137985349931688
+20,615c5a93bc73540e77449baa,DP Ph2 High Reward,1.4326353382129458
+21,615c5a93bc73540e77449baa,DP Ph2 Low Reward,2.137985349931688
+22,615c5a93bc73540e77449baa,PHQ Score,0
+23,615c5a93bc73540e77449baa,PHQ Attention Check,1
+24,615c5a93bc73540e77449baa,Memory Test RT,3092.266244728085
+25,615c5a93bc73540e77449baa,Memory Certainty Count,"      response
+0.0         24
+12.0        13
+24.0        30
+48.0        24
+60.0        44
+72.0       102"
+26,615c5a93bc73540e77449baa,Memory Certainty Correct Count,"      response
+0.0         24
+12.0        13
+24.0        21
+48.0        12
+60.0        25
+72.0        72"
+27,615c5a93bc73540e77449baa,Rewarded Category,Object
+28,615c5a93bc73540e77449baa,End Survey,"{""Q0"":""Quite Surprised "",""Q1"":""Just simply basic recall"",""Q2"":""2""}"
+29,615c5a93bc73540e77449baa,End Survey2,"{""Q0"":""Yes"",""Q1"":""No I did not""}"
+0,5f24794d55695f0549163e86,Overall PC,0.6694560669456067
+1,5f24794d55695f0549163e86,Age,33
+2,5f24794d55695f0549163e86,Sex,SexFemale
+3,5f24794d55695f0549163e86,Bonus,0
+4,5f24794d55695f0549163e86,Overall Match Accuracy,0.6333333333333333
+5,5f24794d55695f0549163e86,Overall Match RT,458.4128205130498
+6,5f24794d55695f0549163e86,CR Overall,0.33886554621848736
+7,5f24794d55695f0549163e86,HR Overall,0.6638655462184874
+8,5f24794d55695f0549163e86,FA Overall,0.325
+9,5f24794d55695f0549163e86,CR Overall High Reward,0.41129943502824856
+10,5f24794d55695f0549163e86,CR Overall Low Reward,0.26666666666666666
+11,5f24794d55695f0549163e86,CR Ph1 High Reward,0.38850574712643676
+12,5f24794d55695f0549163e86,CR Ph1 Low Reward,0.1833333333333333
+13,5f24794d55695f0549163e86,CR Ph2 High Reward,0.4333333333333333
+14,5f24794d55695f0549163e86,CR Ph2 Low Reward,0.3499999999999999
+15,5f24794d55695f0549163e86,DP Overall,1.5352284424978182
+16,5f24794d55695f0549163e86,DP Overall High Reward,1.7524879716806991
+17,5f24794d55695f0549163e86,DP Overall Low Reward,1.3219562644873217
+18,5f24794d55695f0549163e86,DP Ph1 High Reward,1.6878600018212622
+19,5f24794d55695f0549163e86,DP Ph1 Low Reward,1.0624660406464728
+20,5f24794d55695f0549163e86,DP Ph2 High Reward,1.816272374395523
+21,5f24794d55695f0549163e86,DP Ph2 Low Reward,1.5806710579678227
+22,5f24794d55695f0549163e86,PHQ Score,1
+23,5f24794d55695f0549163e86,PHQ Attention Check,1
+24,5f24794d55695f0549163e86,Memory Test RT,3176.576569037208
+25,5f24794d55695f0549163e86,Memory Certainty Count,"      response
+0.0         44
+12.0        37
+24.0        37
+48.0        47
+60.0        40
+72.0        34"
+26,5f24794d55695f0549163e86,Memory Certainty Correct Count,"      response
+0.0         38
+12.0        25
+24.0        16
+48.0        26
+60.0        28
+72.0        27"
+27,5f24794d55695f0549163e86,Rewarded Category,Animal
+28,5f24794d55695f0549163e86,End Survey,"{""Q0"":""Very"",""Q1"":""No real strategy, I just went with my instinct."",""Q2"":""3""}"
+29,5f24794d55695f0549163e86,End Survey2,"{""Q0"":""Yes"",""Q1"":""Animals""}"
+0,5fa684da96a7d72b1c1306e5,Overall PC,0.65
+1,5fa684da96a7d72b1c1306e5,Age,32
+2,5fa684da96a7d72b1c1306e5,Sex,SexMale
+3,5fa684da96a7d72b1c1306e5,Bonus,0.25
+4,5fa684da96a7d72b1c1306e5,Overall Match Accuracy,0.6083333333333333
+5,5fa684da96a7d72b1c1306e5,Overall Match RT,485.7880952556928
+6,5fa684da96a7d72b1c1306e5,CR Overall,0.29999999999999993
+7,5fa684da96a7d72b1c1306e5,HR Overall,0.7
+8,5fa684da96a7d72b1c1306e5,FA Overall,0.4
+9,5fa684da96a7d72b1c1306e5,CR Overall High Reward,0.18333333333333335
+10,5fa684da96a7d72b1c1306e5,CR Overall Low Reward,0.4166666666666667
+11,5fa684da96a7d72b1c1306e5,CR Ph1 High Reward,0.09999999999999998
+12,5fa684da96a7d72b1c1306e5,CR Ph1 Low Reward,0.36666666666666664
+13,5fa684da96a7d72b1c1306e5,CR Ph2 High Reward,0.2666666666666667
+14,5fa684da96a7d72b1c1306e5,CR Ph2 Low Reward,0.46666666666666673
+15,5fa684da96a7d72b1c1306e5,DP Overall,1.428349163158805
+16,5fa684da96a7d72b1c1306e5,DP Overall High Reward,1.0781891960794598
+17,5fa684da96a7d72b1c1306e5,DP Overall Low Reward,1.7652287449028203
+18,5fa684da96a7d72b1c1306e5,DP Ph1 High Reward,0.7646601963968318
+19,5fa684da96a7d72b1c1306e5,DP Ph1 Low Reward,1.6179572531260424
+20,5fa684da96a7d72b1c1306e5,DP Ph2 High Reward,1.3733841251676997
+21,5fa684da96a7d72b1c1306e5,DP Ph2 Low Reward,1.9227237896712237
+22,5fa684da96a7d72b1c1306e5,PHQ Score,0
+23,5fa684da96a7d72b1c1306e5,PHQ Attention Check,1
+24,5fa684da96a7d72b1c1306e5,Memory Test RT,3576.677083342274
+25,5fa684da96a7d72b1c1306e5,Memory Certainty Count,"      response
+0.0         86
+12.0        19
+24.0        27
+48.0        35
+60.0        26
+72.0        47"
+26,5fa684da96a7d72b1c1306e5,Memory Certainty Correct Count,"      response
+0.0         66
+12.0         7
+24.0        11
+48.0        22
+60.0        15
+72.0        35"
+27,5fa684da96a7d72b1c1306e5,Rewarded Category,Object
+28,5fa684da96a7d72b1c1306e5,End Survey,"{""Q0"":""Very surprised"",""Q1"":""Relying on gut feelings"",""Q2"":""1""}"
+29,5fa684da96a7d72b1c1306e5,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,6168983cf2f14b393f06c50a,Overall PC,0.6386554621848739
+1,6168983cf2f14b393f06c50a,Age,29
+2,6168983cf2f14b393f06c50a,Sex,SexFemale
+3,6168983cf2f14b393f06c50a,Bonus,0
+4,6168983cf2f14b393f06c50a,Overall Match Accuracy,0.6416666666666667
+5,6168983cf2f14b393f06c50a,Overall Match RT,487.96976744435557
+6,6168983cf2f14b393f06c50a,CR Overall,0.2773109243697479
+7,6168983cf2f14b393f06c50a,HR Overall,0.453781512605042
+8,6168983cf2f14b393f06c50a,FA Overall,0.17647058823529413
+9,6168983cf2f14b393f06c50a,CR Overall High Reward,0.21355932203389832
+10,6168983cf2f14b393f06c50a,CR Overall Low Reward,0.3418079096045198
+11,6168983cf2f14b393f06c50a,CR Ph1 High Reward,0.18022598870056494
+12,6168983cf2f14b393f06c50a,CR Ph1 Low Reward,0.2816091954022989
+13,6168983cf2f14b393f06c50a,CR Ph2 High Reward,0.24689265536723165
+14,6168983cf2f14b393f06c50a,CR Ph2 Low Reward,0.4
+15,6168983cf2f14b393f06c50a,DP Overall,1.466488355111999
+16,6168983cf2f14b393f06c50a,DP Overall High Reward,1.2713609401988661
+17,6168983cf2f14b393f06c50a,DP Overall Low Reward,1.6529867575652382
+18,6168983cf2f14b393f06c50a,DP Ph1 High Reward,1.1685359866623082
+19,6168983cf2f14b393f06c50a,DP Ph1 Low Reward,1.4930580009018375
+20,6168983cf2f14b393f06c50a,DP Ph2 High Reward,1.3681322860381127
+21,6168983cf2f14b393f06c50a,DP Ph2 Low Reward,1.8040270253722046
+22,6168983cf2f14b393f06c50a,PHQ Score,2
+23,6168983cf2f14b393f06c50a,PHQ Attention Check,1
+24,6168983cf2f14b393f06c50a,Memory Test RT,3029.5315126035393
+25,6168983cf2f14b393f06c50a,Memory Certainty Count,"      response
+0.0         19
+12.0        19
+24.0        37
+36.0         1
+48.0        52
+60.0        53
+72.0        57"
+26,6168983cf2f14b393f06c50a,Memory Certainty Correct Count,"      response
+0.0         17
+12.0        16
+24.0        21
+48.0        28
+60.0        28
+72.0        42"
+27,6168983cf2f14b393f06c50a,Rewarded Category,Object
+28,6168983cf2f14b393f06c50a,End Survey,"{""Q0"":""not very"",""Q1"":""tried to decide if i had ever seen the image before quickly"",""Q2"":""3""}"
+29,6168983cf2f14b393f06c50a,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,616c6223cc3540f64e2aac87,Overall PC,0.8375
+1,616c6223cc3540f64e2aac87,Age,25
+2,616c6223cc3540f64e2aac87,Sex,SexMale
+3,616c6223cc3540f64e2aac87,Bonus,5.25
+4,616c6223cc3540f64e2aac87,Overall Match Accuracy,0.975
+5,616c6223cc3540f64e2aac87,Overall Match RT,389.20084033493237
+6,616c6223cc3540f64e2aac87,CR Overall,0.6749999999999999
+7,616c6223cc3540f64e2aac87,HR Overall,0.8583333333333333
+8,616c6223cc3540f64e2aac87,FA Overall,0.18333333333333332
+9,616c6223cc3540f64e2aac87,CR Overall High Reward,0.6166666666666667
+10,616c6223cc3540f64e2aac87,CR Overall Low Reward,0.7333333333333333
+11,616c6223cc3540f64e2aac87,CR Ph1 High Reward,0.44999999999999996
+12,616c6223cc3540f64e2aac87,CR Ph1 Low Reward,0.6833333333333333
+13,616c6223cc3540f64e2aac87,CR Ph2 High Reward,0.7833333333333333
+14,616c6223cc3540f64e2aac87,CR Ph2 Low Reward,0.7833333333333333
+15,616c6223cc3540f64e2aac87,DP Overall,2.6499679471644133
+16,616c6223cc3540f64e2aac87,DP Overall High Reward,2.41621808549111
+17,616c6223cc3540f64e2aac87,DP Overall Low Reward,2.969487970672231
+18,616c6223cc3540f64e2aac87,DP Ph1 High Reward,1.9137511291081237
+19,616c6223cc3540f64e2aac87,DP Ph1 Low Reward,2.688604572552298
+20,616c6223cc3540f64e2aac87,DP Ph2 High Reward,3.45107537293938
+21,616c6223cc3540f64e2aac87,DP Ph2 Low Reward,3.45107537293938
+22,616c6223cc3540f64e2aac87,PHQ Score,0
+23,616c6223cc3540f64e2aac87,PHQ Attention Check,1
+24,616c6223cc3540f64e2aac87,Memory Test RT,2550.897083324691
+25,616c6223cc3540f64e2aac87,Memory Certainty Count,"      response
+0.0         71
+12.0        26
+24.0        26
+36.0         2
+48.0        68
+60.0        39
+72.0         8"
+26,616c6223cc3540f64e2aac87,Memory Certainty Correct Count,"      response
+0.0         70
+12.0        17
+24.0        16
+48.0        55
+60.0        35
+72.0         8"
+27,616c6223cc3540f64e2aac87,Rewarded Category,Animal
+28,616c6223cc3540f64e2aac87,End Survey,"{""Q0"":""Certainly unexpected, but that's more due to the fact that I didn't know what to expect. "",""Q1"":""Memory by association. So if the image triggered other words then I was certain it had appeared yesterday. Naturally same can't be said for NEW items hence less certainty on the right side of distribution (and probably more guessing)."",""Q2"":""4""}"
+29,616c6223cc3540f64e2aac87,End Survey2,"{""Q0"":""Yes"",""Q1"":""Objects?""}"
+0,5ff1afb39f4b9e617a5ff07e,Overall PC,0.6101694915254238
+1,5ff1afb39f4b9e617a5ff07e,Age,33
+2,5ff1afb39f4b9e617a5ff07e,Sex,SexMale
+3,5ff1afb39f4b9e617a5ff07e,Bonus,0.25
+4,5ff1afb39f4b9e617a5ff07e,Overall Match Accuracy,0.8583333333333333
+5,5ff1afb39f4b9e617a5ff07e,Overall Match RT,504.04476190521603
+6,5ff1afb39f4b9e617a5ff07e,CR Overall,0.23017241379310346
+7,5ff1afb39f4b9e617a5ff07e,HR Overall,0.325
+8,5ff1afb39f4b9e617a5ff07e,FA Overall,0.09482758620689655
+9,5ff1afb39f4b9e617a5ff07e,CR Overall High Reward,0.23192090395480225
+10,5ff1afb39f4b9e617a5ff07e,CR Overall Low Reward,0.22807017543859648
+11,5ff1afb39f4b9e617a5ff07e,CR Ph1 High Reward,0.21525423728813559
+12,5ff1afb39f4b9e617a5ff07e,CR Ph1 Low Reward,0.1280701754385965
+13,5ff1afb39f4b9e617a5ff07e,CR Ph2 High Reward,0.2485875706214689
+14,5ff1afb39f4b9e617a5ff07e,CR Ph2 Low Reward,0.3280701754385965
+15,5ff1afb39f4b9e617a5ff07e,DP Overall,1.5149837426037505
+16,5ff1afb39f4b9e617a5ff07e,DP Overall High Reward,1.5564858287755698
+17,5ff1afb39f4b9e617a5ff07e,DP Overall Low Reward,1.4757970676641656
+18,5ff1afb39f4b9e617a5ff07e,DP Ph1 High Reward,1.5059859954003174
+19,5ff1afb39f4b9e617a5ff07e,DP Ph1 Low Reward,1.1367559928604323
+20,5ff1afb39f4b9e617a5ff07e,DP Ph2 High Reward,1.6053537831696922
+21,5ff1afb39f4b9e617a5ff07e,DP Ph2 Low Reward,1.7517499206969722
+22,5ff1afb39f4b9e617a5ff07e,PHQ Score,1
+23,5ff1afb39f4b9e617a5ff07e,PHQ Attention Check,-1
+24,5ff1afb39f4b9e617a5ff07e,Memory Test RT,2728.4894067816817
+25,5ff1afb39f4b9e617a5ff07e,Memory Certainty Count,"      response
+0.0         34
+12.0         5
+24.0        11
+48.0        37
+60.0        81
+72.0        68"
+26,5ff1afb39f4b9e617a5ff07e,Memory Certainty Correct Count,"      response
+0.0         29
+12.0         4
+24.0         6
+48.0        20
+60.0        41
+72.0        44"
+27,5ff1afb39f4b9e617a5ff07e,Rewarded Category,Object
+28,5ff1afb39f4b9e617a5ff07e,End Survey,"{""Q0"":""Very"",""Q1"":""Tried to remember specifics"",""Q2"":""2""}"
+29,5ff1afb39f4b9e617a5ff07e,End Survey2,"{""Q0"":""Nope"",""Q1"":""Nope""}"
+0,6140c9c0cca2ec55cf59f8fb,Overall PC,0.6666666666666666
+1,6140c9c0cca2ec55cf59f8fb,Age,19
+2,6140c9c0cca2ec55cf59f8fb,Sex,SexFemale
+3,6140c9c0cca2ec55cf59f8fb,Bonus,5
+4,6140c9c0cca2ec55cf59f8fb,Overall Match Accuracy,0.8583333333333333
+5,6140c9c0cca2ec55cf59f8fb,Overall Match RT,428.02792792794133
+6,6140c9c0cca2ec55cf59f8fb,CR Overall,0.33333333333333337
+7,6140c9c0cca2ec55cf59f8fb,HR Overall,0.65
+8,6140c9c0cca2ec55cf59f8fb,FA Overall,0.31666666666666665
+9,6140c9c0cca2ec55cf59f8fb,CR Overall High Reward,0.13333333333333336
+10,6140c9c0cca2ec55cf59f8fb,CR Overall Low Reward,0.5333333333333333
+11,6140c9c0cca2ec55cf59f8fb,CR Ph1 High Reward,0.08333333333333331
+12,6140c9c0cca2ec55cf59f8fb,CR Ph1 Low Reward,0.6166666666666667
+13,6140c9c0cca2ec55cf59f8fb,CR Ph2 High Reward,0.1833333333333333
+14,6140c9c0cca2ec55cf59f8fb,CR Ph2 Low Reward,0.44999999999999996
+15,6140c9c0cca2ec55cf59f8fb,DP Overall,1.519821751269196
+16,6140c9c0cca2ec55cf59f8fb,DP Overall High Reward,0.8896056177635951
+17,6140c9c0cca2ec55cf59f8fb,DP Overall Low Reward,2.1293198576476544
+18,6140c9c0cca2ec55cf59f8fb,DP Ph1 High Reward,0.6932737493032515
+19,6140c9c0cca2ec55cf59f8fb,DP Ph1 Low Reward,2.4228182462598684
+20,6140c9c0cca2ec55cf59f8fb,DP Ph2 High Reward,1.0613757313675405
+21,6140c9c0cca2ec55cf59f8fb,DP Ph2 Low Reward,1.8842164852225094
+22,6140c9c0cca2ec55cf59f8fb,PHQ Score,3
+23,6140c9c0cca2ec55cf59f8fb,PHQ Attention Check,1
+24,6140c9c0cca2ec55cf59f8fb,Memory Test RT,2348.0887500004224
+25,6140c9c0cca2ec55cf59f8fb,Memory Certainty Count,"      response
+0.0         18
+12.0        54
+24.0        44
+48.0        48
+60.0        65
+72.0        11"
+26,6140c9c0cca2ec55cf59f8fb,Memory Certainty Correct Count,"      response
+0.0         18
+12.0        34
+24.0        26
+48.0        32
+60.0        40
+72.0        10"
+27,6140c9c0cca2ec55cf59f8fb,Rewarded Category,Animal
+28,6140c9c0cca2ec55cf59f8fb,End Survey,"{""Q0"":""not very surprised"",""Q1"":""staring at the middle and recognising the colours"",""Q2"":""3""}"
+29,6140c9c0cca2ec55cf59f8fb,End Survey2,"{""Q0"":""yes"",""Q1"":""yes""}"
+0,5d06d5b7e22a26001a04cdcf,Overall PC,0.7208333333333333
+1,5d06d5b7e22a26001a04cdcf,Age,22
+2,5d06d5b7e22a26001a04cdcf,Sex,SexMale
+3,5d06d5b7e22a26001a04cdcf,Bonus,5.25
+4,5d06d5b7e22a26001a04cdcf,Overall Match Accuracy,0.9
+5,5d06d5b7e22a26001a04cdcf,Overall Match RT,363.84601769194137
+6,5d06d5b7e22a26001a04cdcf,CR Overall,0.44166666666666665
+7,5d06d5b7e22a26001a04cdcf,HR Overall,0.65
+8,5d06d5b7e22a26001a04cdcf,FA Overall,0.20833333333333334
+9,5d06d5b7e22a26001a04cdcf,CR Overall High Reward,0.38333333333333336
+10,5d06d5b7e22a26001a04cdcf,CR Overall Low Reward,0.5
+11,5d06d5b7e22a26001a04cdcf,CR Ph1 High Reward,0.3333333333333333
+12,5d06d5b7e22a26001a04cdcf,CR Ph1 Low Reward,0.3833333333333333
+13,5d06d5b7e22a26001a04cdcf,CR Ph2 High Reward,0.4333333333333333
+14,5d06d5b7e22a26001a04cdcf,CR Ph2 Low Reward,0.6166666666666667
+15,5d06d5b7e22a26001a04cdcf,DP Overall,1.8673057657971717
+16,5d06d5b7e22a26001a04cdcf,DP Overall High Reward,1.7186515543763996
+17,5d06d5b7e22a26001a04cdcf,DP Overall Low Reward,2.0275583202249265
+18,5d06d5b7e22a26001a04cdcf,DP Ph1 High Reward,1.586586469398093
+19,5d06d5b7e22a26001a04cdcf,DP Ph1 Low Reward,1.7029612353652794
+20,5d06d5b7e22a26001a04cdcf,DP Ph2 High Reward,1.8518602328546514
+21,5d06d5b7e22a26001a04cdcf,DP Ph2 Low Reward,2.4228182462598684
+22,5d06d5b7e22a26001a04cdcf,PHQ Score,1
+23,5d06d5b7e22a26001a04cdcf,PHQ Attention Check,1
+24,5d06d5b7e22a26001a04cdcf,Memory Test RT,2424.5091666698454
+25,5d06d5b7e22a26001a04cdcf,Memory Certainty Count,"      response
+0.0         43
+12.0        27
+24.0        33
+48.0        30
+60.0        53
+72.0        54"
+26,5d06d5b7e22a26001a04cdcf,Memory Certainty Correct Count,"      response
+0.0         37
+12.0        21
+24.0        20
+48.0        18
+60.0        34
+72.0        43"
+27,5d06d5b7e22a26001a04cdcf,Rewarded Category,Object
+28,5d06d5b7e22a26001a04cdcf,End Survey,"{""Q0"":""Not very surprised "",""Q1"":""Just trying to remember from yesterday, mostly the colours "",""Q2"":""4""}"
+29,5d06d5b7e22a26001a04cdcf,End Survey2,"{""Q0"":""Yes "",""Q1"":""No ""}"
+0,616154b6e0a703cb39ff34fb,Overall PC,0.6956521739130435
+1,616154b6e0a703cb39ff34fb,Age,30
+2,616154b6e0a703cb39ff34fb,Sex,SexFemale
+3,616154b6e0a703cb39ff34fb,Bonus,0
+4,616154b6e0a703cb39ff34fb,Overall Match Accuracy,0.8166666666666667
+5,616154b6e0a703cb39ff34fb,Overall Match RT,435.82129629629264
+6,616154b6e0a703cb39ff34fb,CR Overall,0.3927707199032062
+7,616154b6e0a703cb39ff34fb,HR Overall,0.6120689655172413
+8,616154b6e0a703cb39ff34fb,FA Overall,0.21929824561403508
+9,616154b6e0a703cb39ff34fb,CR Overall High Reward,0.5277093596059114
+10,616154b6e0a703cb39ff34fb,CR Overall Low Reward,0.2586206896551724
+11,616154b6e0a703cb39ff34fb,CR Ph1 High Reward,0.3897783251231527
+12,616154b6e0a703cb39ff34fb,CR Ph1 Low Reward,0.2413793103448276
+13,616154b6e0a703cb39ff34fb,CR Ph2 High Reward,0.6656403940886699
+14,616154b6e0a703cb39ff34fb,CR Ph2 Low Reward,0.27586206896551724
+15,616154b6e0a703cb39ff34fb,DP Overall,1.7261030279325602
+16,616154b6e0a703cb39ff34fb,DP Overall High Reward,2.1209451689225167
+17,616154b6e0a703cb39ff34fb,DP Overall Low Reward,1.3442865555058054
+18,616154b6e0a703cb39ff34fb,DP Ph1 High Reward,1.7394436402926199
+19,616154b6e0a703cb39ff34fb,DP Ph1 Low Reward,1.2953387772028548
+20,616154b6e0a703cb39ff34fb,DP Ph2 High Reward,2.6179543451654155
+21,616154b6e0a703cb39ff34fb,DP Ph2 Low Reward,1.3924466748347295
+22,616154b6e0a703cb39ff34fb,PHQ Score,0
+23,616154b6e0a703cb39ff34fb,PHQ Attention Check,1
+24,616154b6e0a703cb39ff34fb,Memory Test RT,3416.9086956521724
+25,616154b6e0a703cb39ff34fb,Memory Certainty Count,"      response
+12.0        71
+24.0        25
+48.0        42
+60.0        91
+72.0         1"
+26,616154b6e0a703cb39ff34fb,Memory Certainty Correct Count,"      response
+12.0        52
+24.0        19
+48.0        26
+60.0        62
+72.0         1"
+27,616154b6e0a703cb39ff34fb,Rewarded Category,Object
+28,616154b6e0a703cb39ff34fb,End Survey,"{""Q0"":""very surprised "",""Q1"":""colour of objects "",""Q2"":""4""}"
+29,616154b6e0a703cb39ff34fb,End Survey2,"{""Q0"":""yes"",""Q1"":""animals""}"
+0,616738fcc99dbddb030dd873,Overall PC,0.6050420168067226
+1,616738fcc99dbddb030dd873,Age,19
+2,616738fcc99dbddb030dd873,Sex,SexFemale
+3,616738fcc99dbddb030dd873,Bonus,5.25
+4,616738fcc99dbddb030dd873,Overall Match Accuracy,0.9416666666666667
+5,616738fcc99dbddb030dd873,Overall Match RT,358.7846153842078
+6,616738fcc99dbddb030dd873,CR Overall,0.2100840336134453
+7,616738fcc99dbddb030dd873,HR Overall,0.7899159663865546
+8,616738fcc99dbddb030dd873,FA Overall,0.5798319327731093
+9,616738fcc99dbddb030dd873,CR Overall High Reward,0.15000000000000002
+10,616738fcc99dbddb030dd873,CR Overall Low Reward,0.27118644067796616
+11,616738fcc99dbddb030dd873,CR Ph1 High Reward,0.2333333333333334
+12,616738fcc99dbddb030dd873,CR Ph1 Low Reward,0.3067796610169492
+13,616738fcc99dbddb030dd873,CR Ph2 High Reward,0.06666666666666665
+14,616738fcc99dbddb030dd873,CR Ph2 Low Reward,0.2343658679135009
+15,616738fcc99dbddb030dd873,DP Overall,1.232949015324433
+16,616738fcc99dbddb030dd873,DP Overall High Reward,0.9848683994366795
+17,616738fcc99dbddb030dd873,DP Overall Low Reward,1.5221053332288759
+18,616738fcc99dbddb030dd873,DP Ph1 High Reward,1.3125155229833325
+19,616738fcc99dbddb030dd873,DP Ph1 Low Reward,1.712117533138662
+20,616738fcc99dbddb030dd873,DP Ph2 High Reward,0.6253852722719755
+21,616738fcc99dbddb030dd873,DP Ph2 Low Reward,1.3520908435378498
+22,616738fcc99dbddb030dd873,PHQ Score,2
+23,616738fcc99dbddb030dd873,PHQ Attention Check,1
+24,616738fcc99dbddb030dd873,Memory Test RT,3292.787815125049
+25,616738fcc99dbddb030dd873,Memory Certainty Count,"      response
+0.0         96
+12.0        31
+24.0        36
+48.0        23
+60.0        38
+72.0        14"
+26,616738fcc99dbddb030dd873,Memory Certainty Correct Count,"      response
+0.0         68
+12.0        20
+24.0         6
+48.0        15
+60.0        23
+72.0        12"
+27,616738fcc99dbddb030dd873,Rewarded Category,Animal
+28,616738fcc99dbddb030dd873,End Survey,"{""Q0"":""Very surprised that I remembered as much as I did."",""Q1"":""Just judged by the first glance whether I had seen it or not."",""Q2"":""4""}"
+29,616738fcc99dbddb030dd873,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,616d8bc4bd45c4a64b3c6734,Overall PC,0.6694560669456067
+1,616d8bc4bd45c4a64b3c6734,Age,33
+2,616d8bc4bd45c4a64b3c6734,Sex,SexMale
+3,616d8bc4bd45c4a64b3c6734,Bonus,5.25
+4,616d8bc4bd45c4a64b3c6734,Overall Match Accuracy,0.9166666666666666
+5,616d8bc4bd45c4a64b3c6734,Overall Match RT,393.62192983376355
+6,616d8bc4bd45c4a64b3c6734,CR Overall,0.3403361344537815
+7,616d8bc4bd45c4a64b3c6734,HR Overall,0.5
+8,616d8bc4bd45c4a64b3c6734,FA Overall,0.15966386554621848
+9,616d8bc4bd45c4a64b3c6734,CR Overall High Reward,0.31666666666666665
+10,616d8bc4bd45c4a64b3c6734,CR Overall Low Reward,0.3638418079096045
+11,616d8bc4bd45c4a64b3c6734,CR Ph1 High Reward,0.35
+12,616d8bc4bd45c4a64b3c6734,CR Ph1 Low Reward,0.3638418079096045
+13,616d8bc4bd45c4a64b3c6734,CR Ph2 High Reward,0.2833333333333333
+14,616d8bc4bd45c4a64b3c6734,CR Ph2 Low Reward,0.3638418079096045
+15,616d8bc4bd45c4a64b3c6734,DP Overall,1.6604533372504204
+16,616d8bc4bd45c4a64b3c6734,DP Overall High Reward,1.6154986141624332
+17,616d8bc4bd45c4a64b3c6734,DP Overall Low Reward,1.7060405227286828
+18,616d8bc4bd45c4a64b3c6734,DP Ph1 High Reward,1.702533354943902
+19,616d8bc4bd45c4a64b3c6734,DP Ph1 Low Reward,1.7060405227286828
+20,616d8bc4bd45c4a64b3c6734,DP Ph2 High Reward,1.5264215990767265
+21,616d8bc4bd45c4a64b3c6734,DP Ph2 Low Reward,1.7060405227286828
+22,616d8bc4bd45c4a64b3c6734,PHQ Score,1
+23,616d8bc4bd45c4a64b3c6734,PHQ Attention Check,-1
+24,616d8bc4bd45c4a64b3c6734,Memory Test RT,2619.432635963711
+25,616d8bc4bd45c4a64b3c6734,Memory Certainty Count,"      response
+0.0         35
+12.0        18
+24.0        26
+48.0        67
+60.0        69
+72.0        24"
+26,616d8bc4bd45c4a64b3c6734,Memory Certainty Correct Count,"      response
+0.0         34
+12.0        12
+24.0        14
+48.0        38
+60.0        39
+72.0        23"
+27,616d8bc4bd45c4a64b3c6734,Rewarded Category,Object
+28,616d8bc4bd45c4a64b3c6734,End Survey,"{""Q0"":""Quite - I could remember quite a lot of objects,  less so animals and insects"",""Q1"":""Colors and shapes and funny looking things"",""Q2"":""3""}"
+29,616d8bc4bd45c4a64b3c6734,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,61667ad3d3c29f487b65cd45,Overall PC,0.7666666666666667
+1,61667ad3d3c29f487b65cd45,Age,30
+2,61667ad3d3c29f487b65cd45,Sex,SexMale
+3,61667ad3d3c29f487b65cd45,Bonus,5.25
+4,61667ad3d3c29f487b65cd45,Overall Match Accuracy,0.9416666666666667
+5,61667ad3d3c29f487b65cd45,Overall Match RT,410.88608695670314
+6,61667ad3d3c29f487b65cd45,CR Overall,0.5333333333333333
+7,61667ad3d3c29f487b65cd45,HR Overall,0.6833333333333333
+8,61667ad3d3c29f487b65cd45,FA Overall,0.15
+9,61667ad3d3c29f487b65cd45,CR Overall High Reward,0.55
+10,61667ad3d3c29f487b65cd45,CR Overall Low Reward,0.5166666666666666
+11,61667ad3d3c29f487b65cd45,CR Ph1 High Reward,0.6
+12,61667ad3d3c29f487b65cd45,CR Ph1 Low Reward,0.5333333333333332
+13,61667ad3d3c29f487b65cd45,CR Ph2 High Reward,0.5
+14,61667ad3d3c29f487b65cd45,CR Ph2 Low Reward,0.49999999999999994
+15,61667ad3d3c29f487b65cd45,DP Overall,2.184852784578161
+16,61667ad3d3c29f487b65cd45,DP Overall High Reward,2.3384440569342715
+17,61667ad3d3c29f487b65cd45,DP Overall Low Reward,2.085849607436772
+18,61667ad3d3c29f487b65cd45,DP Ph1 High Reward,2.4782069617971034
+19,61667ad3d3c29f487b65cd45,DP Ph1 Low Reward,2.135884175169272
+20,61667ad3d3c29f487b65cd45,DP Ph2 High Reward,2.2062922609800473
+21,61667ad3d3c29f487b65cd45,DP Ph2 Low Reward,2.0371480742175563
+22,61667ad3d3c29f487b65cd45,PHQ Score,1
+23,61667ad3d3c29f487b65cd45,PHQ Attention Check,1
+24,61667ad3d3c29f487b65cd45,Memory Test RT,2807.787916666145
+25,61667ad3d3c29f487b65cd45,Memory Certainty Count,"      response
+0.0         43
+12.0        34
+24.0        23
+48.0        37
+60.0        59
+72.0        44"
+26,61667ad3d3c29f487b65cd45,Memory Certainty Correct Count,"      response
+0.0         39
+12.0        26
+24.0        17
+48.0        25
+60.0        40
+72.0        37"
+27,61667ad3d3c29f487b65cd45,Rewarded Category,Object
+28,61667ad3d3c29f487b65cd45,End Survey,"{""Q0"":""very i only remembered a few there was so many pictures yesterday"",""Q1"":""yes the ones i diffidently remembered seeing"",""Q2"":""4""}"
+29,61667ad3d3c29f487b65cd45,End Survey2,"{""Q0"":""yes i did"",""Q1"":""animals""}"
+0,6160dc309408171c94e20e33,Overall PC,0.7521008403361344
+1,6160dc309408171c94e20e33,Age,29
+2,6160dc309408171c94e20e33,Sex,SexFemale
+3,6160dc309408171c94e20e33,Bonus,5
+4,6160dc309408171c94e20e33,Overall Match Accuracy,0.9
+5,6160dc309408171c94e20e33,Overall Match RT,461.841284403492
+6,6160dc309408171c94e20e33,CR Overall,0.5055084745762712
+7,6160dc309408171c94e20e33,HR Overall,0.675
+8,6160dc309408171c94e20e33,FA Overall,0.1694915254237288
+9,6160dc309408171c94e20e33,CR Overall High Reward,0.5132768361581921
+10,6160dc309408171c94e20e33,CR Overall Low Reward,0.4977401129943503
+11,6160dc309408171c94e20e33,CR Ph1 High Reward,0.4299435028248587
+12,6160dc309408171c94e20e33,CR Ph1 Low Reward,0.4977401129943503
+13,6160dc309408171c94e20e33,CR Ph2 High Reward,0.5966101694915255
+14,6160dc309408171c94e20e33,CR Ph2 Low Reward,0.4977401129943503
+15,6160dc309408171c94e20e33,DP Overall,2.0811896997184496
+16,6160dc309408171c94e20e33,DP Overall High Reward,2.0737756955915274
+17,6160dc309408171c94e20e33,DP Overall Low Reward,2.112336461226247
+18,6160dc309408171c94e20e33,DP Ph1 High Reward,1.839620915684512
+19,6160dc309408171c94e20e33,DP Ph1 Low Reward,2.112336461226247
+20,6160dc309408171c94e20e33,DP Ph2 High Reward,2.342778618296492
+21,6160dc309408171c94e20e33,DP Ph2 Low Reward,2.112336461226247
+22,6160dc309408171c94e20e33,PHQ Score,1
+23,6160dc309408171c94e20e33,PHQ Attention Check,1
+24,6160dc309408171c94e20e33,Memory Test RT,2589.61050420148
+25,6160dc309408171c94e20e33,Memory Certainty Count,"      response
+0.0         53
+12.0        25
+24.0        23
+48.0        42
+60.0        48
+72.0        47"
+26,6160dc309408171c94e20e33,Memory Certainty Correct Count,"      response
+0.0         50
+12.0        17
+24.0        14
+48.0        24
+60.0        33
+72.0        41"
+27,6160dc309408171c94e20e33,Rewarded Category,Object
+28,6160dc309408171c94e20e33,End Survey,"{""Q0"":""Quite surprised by how many I think I remembered"",""Q1"":""Trying to picture what I saw yesterday"",""Q2"":""4""}"
+29,6160dc309408171c94e20e33,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,6163f85ef1ba5916833c2e0c,Overall PC,0.7
+1,6163f85ef1ba5916833c2e0c,Age,32
+2,6163f85ef1ba5916833c2e0c,Sex,SexFemale
+3,6163f85ef1ba5916833c2e0c,Bonus,0
+4,6163f85ef1ba5916833c2e0c,Overall Match Accuracy,0.7583333333333333
+5,6163f85ef1ba5916833c2e0c,Overall Match RT,470.1709677391155
+6,6163f85ef1ba5916833c2e0c,CR Overall,0.39999999999999997
+7,6163f85ef1ba5916833c2e0c,HR Overall,0.7
+8,6163f85ef1ba5916833c2e0c,FA Overall,0.3
+9,6163f85ef1ba5916833c2e0c,CR Overall High Reward,0.41666666666666674
+10,6163f85ef1ba5916833c2e0c,CR Overall Low Reward,0.3833333333333333
+11,6163f85ef1ba5916833c2e0c,CR Ph1 High Reward,0.2833333333333333
+12,6163f85ef1ba5916833c2e0c,CR Ph1 Low Reward,0.35
+13,6163f85ef1ba5916833c2e0c,CR Ph2 High Reward,0.55
+14,6163f85ef1ba5916833c2e0c,CR Ph2 Low Reward,0.41666666666666663
+15,6163f85ef1ba5916833c2e0c,DP Overall,1.7153015623111196
+16,6163f85ef1ba5916833c2e0c,DP Overall High Reward,1.7814711519094792
+17,6163f85ef1ba5916833c2e0c,DP Overall Low Reward,1.6805402695894973
+18,6163f85ef1ba5916833c2e0c,DP Ph1 High Reward,1.3712724927422333
+19,6163f85ef1ba5916833c2e0c,DP Ph1 Low Reward,1.5892879297490266
+20,6163f85ef1ba5916833c2e0c,DP Ph2 High Reward,2.3384440569342715
+21,6163f85ef1ba5916833c2e0c,DP Ph2 Low Reward,1.773268001778546
+22,6163f85ef1ba5916833c2e0c,PHQ Score,2
+23,6163f85ef1ba5916833c2e0c,PHQ Attention Check,1
+24,6163f85ef1ba5916833c2e0c,Memory Test RT,2604.358749995629
+25,6163f85ef1ba5916833c2e0c,Memory Certainty Count,"      response
+0.0         23
+12.0        42
+24.0        55
+48.0        74
+60.0        38
+72.0         8"
+26,6163f85ef1ba5916833c2e0c,Memory Certainty Correct Count,"      response
+0.0         22
+12.0        28
+24.0        34
+48.0        51
+60.0        25
+72.0         8"
+27,6163f85ef1ba5916833c2e0c,Rewarded Category,Animal
+28,6163f85ef1ba5916833c2e0c,End Survey,"{""Q0"":""moderately"",""Q1"":""gut feeling but also i think i remembered some things because i was wondering what they were"",""Q2"":""2""}"
+29,6163f85ef1ba5916833c2e0c,End Survey2,"{""Q0"":""yes"",""Q1"":""animals""}"
+0,5edd7a7e82922da82b9fe3e8,Overall PC,0.6833333333333333
+1,5edd7a7e82922da82b9fe3e8,Age,24
+2,5edd7a7e82922da82b9fe3e8,Sex,SexFemale
+3,5edd7a7e82922da82b9fe3e8,Bonus,5.25
+4,5edd7a7e82922da82b9fe3e8,Overall Match Accuracy,0.9333333333333333
+5,5edd7a7e82922da82b9fe3e8,Overall Match RT,451.15929203539486
+6,5edd7a7e82922da82b9fe3e8,CR Overall,0.3666666666666667
+7,5edd7a7e82922da82b9fe3e8,HR Overall,0.7416666666666667
+8,5edd7a7e82922da82b9fe3e8,FA Overall,0.375
+9,5edd7a7e82922da82b9fe3e8,CR Overall High Reward,0.3333333333333333
+10,5edd7a7e82922da82b9fe3e8,CR Overall Low Reward,0.39999999999999997
+11,5edd7a7e82922da82b9fe3e8,CR Ph1 High Reward,0.3
+12,5edd7a7e82922da82b9fe3e8,CR Ph1 Low Reward,0.4166666666666667
+13,5edd7a7e82922da82b9fe3e8,CR Ph2 High Reward,0.36666666666666664
+14,5edd7a7e82922da82b9fe3e8,CR Ph2 Low Reward,0.38333333333333336
+15,5edd7a7e82922da82b9fe3e8,DP Overall,1.630519467723969
+16,5edd7a7e82922da82b9fe3e8,DP Overall High Reward,1.5227439025956182
+17,5edd7a7e82922da82b9fe3e8,DP Overall Low Reward,1.7476560929804688
+18,5edd7a7e82922da82b9fe3e8,DP Ph1 High Reward,1.4214212727093536
+19,5edd7a7e82922da82b9fe3e8,DP Ph1 Low Reward,1.807131493626028
+20,5edd7a7e82922da82b9fe3e8,DP Ph2 High Reward,1.6268480359315274
+21,5edd7a7e82922da82b9fe3e8,DP Ph2 Low Reward,1.6903473779376015
+22,5edd7a7e82922da82b9fe3e8,PHQ Score,2
+23,5edd7a7e82922da82b9fe3e8,PHQ Attention Check,1
+24,5edd7a7e82922da82b9fe3e8,Memory Test RT,2820.683333333334
+25,5edd7a7e82922da82b9fe3e8,Memory Certainty Count,"      response
+0.0         28
+12.0        44
+24.0        62
+48.0        77
+60.0        29"
+26,5edd7a7e82922da82b9fe3e8,Memory Certainty Correct Count,"      response
+0.0         28
+12.0        31
+24.0        30
+48.0        47
+60.0        28"
+27,5edd7a7e82922da82b9fe3e8,Rewarded Category,Animal
+28,5edd7a7e82922da82b9fe3e8,End Survey,"{""Q0"":""I did expect the test to be more similar to yesterday's so I was a little shocked but it does make sense."",""Q1"":""I simply tried to think back to the test, there were a few I think I definitely remembered due to overthinking the picture during the test."",""Q2"":""3""}"
+29,5edd7a7e82922da82b9fe3e8,End Survey2,"{""Q0"":""No I didn't but now it seems obvious."",""Q1"":""No I didn't think about it I was focusing on the test.""}"
+0,61561f25dc3e4e3f0077afc6,Overall PC,0.7791666666666667
+1,61561f25dc3e4e3f0077afc6,Age,27
+2,61561f25dc3e4e3f0077afc6,Sex,SexFemale
+3,61561f25dc3e4e3f0077afc6,Bonus,5.25
+4,61561f25dc3e4e3f0077afc6,Overall Match Accuracy,0.9333333333333333
+5,61561f25dc3e4e3f0077afc6,Overall Match RT,421.24824560734265
+6,61561f25dc3e4e3f0077afc6,CR Overall,0.5583333333333333
+7,61561f25dc3e4e3f0077afc6,HR Overall,0.6333333333333333
+8,61561f25dc3e4e3f0077afc6,FA Overall,0.075
+9,61561f25dc3e4e3f0077afc6,CR Overall High Reward,0.45
+10,61561f25dc3e4e3f0077afc6,CR Overall Low Reward,0.6666666666666667
+11,61561f25dc3e4e3f0077afc6,CR Ph1 High Reward,0.38333333333333336
+12,61561f25dc3e4e3f0077afc6,CR Ph1 Low Reward,0.6666666666666667
+13,61561f25dc3e4e3f0077afc6,CR Ph2 High Reward,0.5166666666666666
+14,61561f25dc3e4e3f0077afc6,CR Ph2 Low Reward,0.6666666666666667
+15,61561f25dc3e4e3f0077afc6,DP Overall,2.4522969594188875
+16,61561f25dc3e4e3f0077afc6,DP Overall High Reward,2.3163752844576875
+17,61561f25dc3e4e3f0077afc6,DP Overall Low Reward,2.684480629554784
+18,61561f25dc3e4e3f0077afc6,DP Ph1 High Reward,2.148309471965046
+19,61561f25dc3e4e3f0077afc6,DP Ph1 Low Reward,2.684480629554784
+20,61561f25dc3e4e3f0077afc6,DP Ph2 High Reward,2.4850563755213937
+21,61561f25dc3e4e3f0077afc6,DP Ph2 Low Reward,2.684480629554784
+22,61561f25dc3e4e3f0077afc6,PHQ Score,2
+23,61561f25dc3e4e3f0077afc6,PHQ Attention Check,1
+24,61561f25dc3e4e3f0077afc6,Memory Test RT,2125.2462499936423
+25,61561f25dc3e4e3f0077afc6,Memory Certainty Count,"      response
+0.0         47
+12.0        27
+24.0        11
+48.0         3
+60.0        23
+72.0       129"
+26,61561f25dc3e4e3f0077afc6,Memory Certainty Correct Count,"      response
+0.0         46
+12.0        21
+24.0         9
+48.0         2
+60.0        16
+72.0        93"
+27,61561f25dc3e4e3f0077afc6,Rewarded Category,Object
+28,61561f25dc3e4e3f0077afc6,End Survey,"{""Q0"":""very"",""Q1"":""concentrate a lot"",""Q2"":""5""}"
+29,61561f25dc3e4e3f0077afc6,End Survey2,"{""Q0"":""yes"",""Q1"":""yes""}"
+0,60700acc9c64b29621ee457f,Overall PC,0.6333333333333333
+1,60700acc9c64b29621ee457f,Age,19
+2,60700acc9c64b29621ee457f,Sex,SexMale
+3,60700acc9c64b29621ee457f,Bonus,5.25
+4,60700acc9c64b29621ee457f,Overall Match Accuracy,0.825
+5,60700acc9c64b29621ee457f,Overall Match RT,449.65148514852626
+6,60700acc9c64b29621ee457f,CR Overall,0.2666666666666667
+7,60700acc9c64b29621ee457f,HR Overall,0.5833333333333334
+8,60700acc9c64b29621ee457f,FA Overall,0.31666666666666665
+9,60700acc9c64b29621ee457f,CR Overall High Reward,0.23333333333333334
+10,60700acc9c64b29621ee457f,CR Overall Low Reward,0.3
+11,60700acc9c64b29621ee457f,CR Ph1 High Reward,0.23333333333333334
+12,60700acc9c64b29621ee457f,CR Ph1 Low Reward,0.3333333333333333
+13,60700acc9c64b29621ee457f,CR Ph2 High Reward,0.23333333333333334
+14,60700acc9c64b29621ee457f,CR Ph2 Low Reward,0.26666666666666666
+15,60700acc9c64b29621ee457f,DP Overall,1.3280707787551949
+16,60700acc9c64b29621ee457f,DP Overall High Reward,1.2204815693239695
+17,60700acc9c64b29621ee457f,DP Overall Low Reward,1.4426238992234859
+18,60700acc9c64b29621ee457f,DP Ph1 High Reward,1.2204815693239695
+19,60700acc9c64b29621ee457f,DP Ph1 Low Reward,1.5346686112553187
+20,60700acc9c64b29621ee457f,DP Ph2 High Reward,1.2204815693239695
+21,60700acc9c64b29621ee457f,DP Ph2 Low Reward,1.3495641910558691
+22,60700acc9c64b29621ee457f,PHQ Score,0
+23,60700acc9c64b29621ee457f,PHQ Attention Check,1
+24,60700acc9c64b29621ee457f,Memory Test RT,2980.221249999979
+25,60700acc9c64b29621ee457f,Memory Certainty Count,"      response
+0.0         16
+12.0        38
+24.0        54
+48.0        76
+60.0        42
+72.0        14"
+26,60700acc9c64b29621ee457f,Memory Certainty Correct Count,"      response
+0.0         12
+12.0        29
+24.0        29
+48.0        49
+60.0        22
+72.0        11"
+27,60700acc9c64b29621ee457f,Rewarded Category,Animal
+28,60700acc9c64b29621ee457f,End Survey,"{""Q0"":""somewhat suprised"",""Q1"":""trying to remember what images were on yesterday"",""Q2"":""4""}"
+29,60700acc9c64b29621ee457f,End Survey2,"{""Q0"":""yes"",""Q1"":""No""}"
+0,615ebe7c2fb5443bf6b04f25,Overall PC,0.7083333333333334
+1,615ebe7c2fb5443bf6b04f25,Age,35
+2,615ebe7c2fb5443bf6b04f25,Sex,SexFemale
+3,615ebe7c2fb5443bf6b04f25,Bonus,5
+4,615ebe7c2fb5443bf6b04f25,Overall Match Accuracy,0.825
+5,615ebe7c2fb5443bf6b04f25,Overall Match RT,472.22815533922716
+6,615ebe7c2fb5443bf6b04f25,CR Overall,0.41666666666666663
+7,615ebe7c2fb5443bf6b04f25,HR Overall,0.7333333333333333
+8,615ebe7c2fb5443bf6b04f25,FA Overall,0.31666666666666665
+9,615ebe7c2fb5443bf6b04f25,CR Overall High Reward,0.5333333333333333
+10,615ebe7c2fb5443bf6b04f25,CR Overall Low Reward,0.3
+11,615ebe7c2fb5443bf6b04f25,CR Ph1 High Reward,0.5166666666666666
+12,615ebe7c2fb5443bf6b04f25,CR Ph1 Low Reward,0.35000000000000003
+13,615ebe7c2fb5443bf6b04f25,CR Ph2 High Reward,0.55
+14,615ebe7c2fb5443bf6b04f25,CR Ph2 Low Reward,0.24999999999999994
+15,615ebe7c2fb5443bf6b04f25,DP Overall,1.7678906753927193
+16,615ebe7c2fb5443bf6b04f25,DP Overall High Reward,2.1293198576476544
+17,615ebe7c2fb5443bf6b04f25,DP Overall Low Reward,1.4345240423634922
+18,615ebe7c2fb5443bf6b04f25,DP Ph1 High Reward,2.0776692486226773
+19,615ebe7c2fb5443bf6b04f25,DP Ph1 Low Reward,1.600341699999818
+20,615ebe7c2fb5443bf6b04f25,DP Ph2 High Reward,2.182791189391754
+21,615ebe7c2fb5443bf6b04f25,DP Ph2 Low Reward,1.2752923582346187
+22,615ebe7c2fb5443bf6b04f25,PHQ Score,1
+23,615ebe7c2fb5443bf6b04f25,PHQ Attention Check,1
+24,615ebe7c2fb5443bf6b04f25,Memory Test RT,3760.0333333335816
+25,615ebe7c2fb5443bf6b04f25,Memory Certainty Count,"      response
+0.0         57
+12.0        39
+24.0        30
+48.0        44
+60.0        53
+72.0        17"
+26,615ebe7c2fb5443bf6b04f25,Memory Certainty Correct Count,"      response
+0.0         52
+12.0        21
+24.0        15
+48.0        31
+60.0        34
+72.0        17"
+27,615ebe7c2fb5443bf6b04f25,Rewarded Category,Object
+28,615ebe7c2fb5443bf6b04f25,End Survey,"{""Q0"":""very"",""Q1"":""I just tried to imagine myself as i was completing the task yesterday"",""Q2"":""3""}"
+29,615ebe7c2fb5443bf6b04f25,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,613e7b63a133fabb37edbfed,Overall PC,0.8451882845188284
+1,613e7b63a133fabb37edbfed,Age,27
+2,613e7b63a133fabb37edbfed,Sex,SexFemale
+3,613e7b63a133fabb37edbfed,Bonus,5
+4,613e7b63a133fabb37edbfed,Overall Match Accuracy,0.8916666666666667
+5,613e7b63a133fabb37edbfed,Overall Match RT,461.4272727272783
+6,613e7b63a133fabb37edbfed,CR Overall,0.6907563025210084
+7,613e7b63a133fabb37edbfed,HR Overall,0.8907563025210085
+8,613e7b63a133fabb37edbfed,FA Overall,0.2
+9,613e7b63a133fabb37edbfed,CR Overall High Reward,0.7319209039548022
+10,613e7b63a133fabb37edbfed,CR Overall Low Reward,0.65
+11,613e7b63a133fabb37edbfed,CR Ph1 High Reward,0.7166666666666667
+12,613e7b63a133fabb37edbfed,CR Ph1 Low Reward,0.5833333333333334
+13,613e7b63a133fabb37edbfed,CR Ph2 High Reward,0.7477011494252873
+14,613e7b63a133fabb37edbfed,CR Ph2 Low Reward,0.7166666666666667
+15,613e7b63a133fabb37edbfed,DP Overall,2.74861539245055
+16,613e7b63a133fabb37edbfed,DP Overall High Reward,2.9599329107687344
+17,613e7b63a133fabb37edbfed,DP Overall Low Reward,2.567415356778341
+18,613e7b63a133fabb37edbfed,DP Ph1 High Reward,2.864054750718897
+19,613e7b63a133fabb37edbfed,DP Ph1 Low Reward,2.2966073957222215
+20,613e7b63a133fabb37edbfed,DP Ph2 High Reward,3.074982368060321
+21,613e7b63a133fabb37edbfed,DP Ph2 Low Reward,2.9682949519005626
+22,613e7b63a133fabb37edbfed,PHQ Score,2
+23,613e7b63a133fabb37edbfed,PHQ Attention Check,1
+24,613e7b63a133fabb37edbfed,Memory Test RT,2883.1087866108805
+25,613e7b63a133fabb37edbfed,Memory Certainty Count,"      response
+0.0         71
+12.0        40
+24.0        19
+48.0        37
+60.0        59
+72.0        13"
+26,613e7b63a133fabb37edbfed,Memory Certainty Correct Count,"      response
+0.0         68
+12.0        28
+24.0        10
+48.0        31
+60.0        53
+72.0        12"
+27,613e7b63a133fabb37edbfed,Rewarded Category,Animal
+28,613e7b63a133fabb37edbfed,End Survey,"{""Q0"":""I wasn't expecting it but it wasn't a shock that the test would be different to yesterday in some way "",""Q1"":""I had remembered the images yesterday by naming them in my head or relating them to things in my life so that was how i could answer definitely on some of them."",""Q2"":""2""}"
+29,613e7b63a133fabb37edbfed,End Survey2,"{""Q0"":""yes "",""Q1"":""I think tools was ""}"
+0,6159ec5bd7356886aaaa2168,Overall PC,0.7763713080168776
+1,6159ec5bd7356886aaaa2168,Age,23
+2,6159ec5bd7356886aaaa2168,Sex,SexFemale
+3,6159ec5bd7356886aaaa2168,Bonus,5.25
+4,6159ec5bd7356886aaaa2168,Overall Match Accuracy,0.8833333333333333
+5,6159ec5bd7356886aaaa2168,Overall Match RT,473.6403669632903
+6,6159ec5bd7356886aaaa2168,CR Overall,0.551915681526848
+7,6159ec5bd7356886aaaa2168,HR Overall,0.8739495798319328
+8,6159ec5bd7356886aaaa2168,FA Overall,0.3220338983050847
+9,6159ec5bd7356886aaaa2168,CR Overall High Reward,0.49999999999999994
+10,6159ec5bd7356886aaaa2168,CR Overall Low Reward,0.6057860900058445
+11,6159ec5bd7356886aaaa2168,CR Ph1 High Reward,0.45
+12,6159ec5bd7356886aaaa2168,CR Ph1 Low Reward,0.6724137931034482
+13,6159ec5bd7356886aaaa2168,CR Ph2 High Reward,0.55
+14,6159ec5bd7356886aaaa2168,CR Ph2 Low Reward,0.5413793103448277
+15,6159ec5bd7356886aaaa2168,DP Overall,2.2787400894871266
+16,6159ec5bd7356886aaaa2168,DP Overall High Reward,2.159914153051026
+17,6159ec5bd7356886aaaa2168,DP Overall Low Reward,2.419818534382974
+18,6159ec5bd7356886aaaa2168,DP Ph1 High Reward,1.9346787702665853
+19,6159ec5bd7356886aaaa2168,DP Ph1 Low Reward,2.809197256547065
+20,6159ec5bd7356886aaaa2168,DP Ph2 High Reward,2.470017148649509
+21,6159ec5bd7356886aaaa2168,DP Ph2 Low Reward,2.160585518099614
+22,6159ec5bd7356886aaaa2168,PHQ Score,0
+23,6159ec5bd7356886aaaa2168,PHQ Attention Check,1
+24,6159ec5bd7356886aaaa2168,Memory Test RT,3325.188185653103
+25,6159ec5bd7356886aaaa2168,Memory Certainty Count,"      response
+0.0         66
+12.0        27
+24.0        49
+48.0        34
+60.0        40
+72.0        21"
+26,6159ec5bd7356886aaaa2168,Memory Certainty Correct Count,"      response
+0.0         60
+12.0        19
+24.0        25
+48.0        26
+60.0        33
+72.0        21"
+27,6159ec5bd7356886aaaa2168,Rewarded Category,Animal
+28,6159ec5bd7356886aaaa2168,End Survey,"{""Q0"":""About half way through the First task I began to suspect"",""Q1"":""I remembered a few from before because they were either familiar to me or I like the look of them or they were interesting. Ones that weren't familiar I voted that I likely new"",""Q2"":""4""}"
+29,6159ec5bd7356886aaaa2168,End Survey2,"{""Q0"":""Yes"",""Q1"":""No I didn't ""}"
+0,56896433d3d6a7000ca23d94,Overall PC,0.7791666666666667
+1,56896433d3d6a7000ca23d94,Age,38
+2,56896433d3d6a7000ca23d94,Sex,SexFemale
+3,56896433d3d6a7000ca23d94,Bonus,5
+4,56896433d3d6a7000ca23d94,Overall Match Accuracy,0.875
+5,56896433d3d6a7000ca23d94,Overall Match RT,440.98240740983573
+6,56896433d3d6a7000ca23d94,CR Overall,0.5583333333333333
+7,56896433d3d6a7000ca23d94,HR Overall,0.65
+8,56896433d3d6a7000ca23d94,FA Overall,0.09166666666666666
+9,56896433d3d6a7000ca23d94,CR Overall High Reward,0.55
+10,56896433d3d6a7000ca23d94,CR Overall Low Reward,0.5666666666666667
+11,56896433d3d6a7000ca23d94,CR Ph1 High Reward,0.43333333333333335
+12,56896433d3d6a7000ca23d94,CR Ph1 Low Reward,0.6166666666666666
+13,56896433d3d6a7000ca23d94,CR Ph2 High Reward,0.6666666666666667
+14,56896433d3d6a7000ca23d94,CR Ph2 Low Reward,0.5166666666666666
+15,56896433d3d6a7000ca23d94,DP Overall,2.387614312396358
+16,56896433d3d6a7000ca23d94,DP Overall High Reward,2.259248925605955
+17,56896433d3d6a7000ca23d94,DP Overall Low Reward,2.6153971750846687
+18,56896433d3d6a7000ca23d94,DP Ph1 High Reward,1.949306269298668
+19,56896433d3d6a7000ca23d94,DP Ph1 Low Reward,2.752100516944661
+20,56896433d3d6a7000ca23d94,DP Ph2 High Reward,2.6263699198863075
+21,56896433d3d6a7000ca23d94,DP Ph2 Low Reward,2.4850563755213937
+22,56896433d3d6a7000ca23d94,PHQ Score,1
+23,56896433d3d6a7000ca23d94,PHQ Attention Check,1
+24,56896433d3d6a7000ca23d94,Memory Test RT,2387.2108333321908
+25,56896433d3d6a7000ca23d94,Memory Certainty Count,"      response
+0.0         64
+12.0        10
+24.0        15
+48.0        46
+60.0        49
+72.0        56"
+26,56896433d3d6a7000ca23d94,Memory Certainty Correct Count,"      response
+0.0         63
+12.0         6
+24.0         9
+48.0        25
+60.0        38
+72.0        46"
+27,56896433d3d6a7000ca23d94,Rewarded Category,Object
+28,56896433d3d6a7000ca23d94,End Survey,"{""Q0"":""I think I remembered more than I thought at the start."",""Q1"":""I just tried to think if the images were familiar or not, some were very similar to one another so I felt uncertain a lot."",""Q2"":""6""}"
+29,56896433d3d6a7000ca23d94,End Survey2,"{""Q0"":""Yes"",""Q1"":""Yes, it was the objects, not the animals.""}"
+0,616e87fd65bd7d095136a0a5,Overall PC,0.7958333333333333
+1,616e87fd65bd7d095136a0a5,Age,31
+2,616e87fd65bd7d095136a0a5,Sex,SexFemale
+3,616e87fd65bd7d095136a0a5,Bonus,0.25
+4,616e87fd65bd7d095136a0a5,Overall Match Accuracy,0.9083333333333333
+5,616e87fd65bd7d095136a0a5,Overall Match RT,379.2906410256423
+6,616e87fd65bd7d095136a0a5,CR Overall,0.5916666666666667
+7,616e87fd65bd7d095136a0a5,HR Overall,0.725
+8,616e87fd65bd7d095136a0a5,FA Overall,0.13333333333333333
+9,616e87fd65bd7d095136a0a5,CR Overall High Reward,0.6166666666666667
+10,616e87fd65bd7d095136a0a5,CR Overall Low Reward,0.5666666666666667
+11,616e87fd65bd7d095136a0a5,CR Ph1 High Reward,0.5833333333333334
+12,616e87fd65bd7d095136a0a5,CR Ph1 Low Reward,0.5166666666666666
+13,616e87fd65bd7d095136a0a5,CR Ph2 High Reward,0.65
+14,616e87fd65bd7d095136a0a5,CR Ph2 Low Reward,0.6166666666666666
+15,616e87fd65bd7d095136a0a5,DP Overall,2.380235250846751
+16,616e87fd65bd7d095136a0a5,DP Overall High Reward,2.41621808549111
+17,616e87fd65bd7d095136a0a5,DP Overall Low Reward,2.440310015299272
+18,616e87fd65bd7d095136a0a5,DP Ph1 High Reward,2.302143116420875
+19,616e87fd65bd7d095136a0a5,DP Ph1 Low Reward,2.307846424425186
+20,616e87fd65bd7d095136a0a5,DP Ph2 High Reward,2.5430145810282343
+21,616e87fd65bd7d095136a0a5,DP Ph2 Low Reward,2.580707681876865
+22,616e87fd65bd7d095136a0a5,PHQ Score,2
+23,616e87fd65bd7d095136a0a5,PHQ Attention Check,1
+24,616e87fd65bd7d095136a0a5,Memory Test RT,3676.281062500034
+25,616e87fd65bd7d095136a0a5,Memory Certainty Count,"      response
+0.0         55
+12.0        26
+24.0        22
+48.0        24
+60.0        57
+72.0        56"
+26,616e87fd65bd7d095136a0a5,Memory Certainty Correct Count,"      response
+0.0         53
+12.0        20
+24.0        14
+48.0        14
+60.0        40
+72.0        50"
+27,616e87fd65bd7d095136a0a5,Rewarded Category,Animal
+28,616e87fd65bd7d095136a0a5,End Survey,"{""Q0"":""very surprised, didnt't know what to expect"",""Q1"":""Just tried to go with my gut feeling, "",""Q2"":""4""}"
+29,616e87fd65bd7d095136a0a5,End Survey2,"{""Q0"":""yes"",""Q1"":""No, i didn't notice ""}"
+0,6148e91f4528cbc45e156fad,Overall PC,0.8991596638655462
+1,6148e91f4528cbc45e156fad,Age,25
+2,6148e91f4528cbc45e156fad,Sex,SexFemale
+3,6148e91f4528cbc45e156fad,Bonus,5.25
+4,6148e91f4528cbc45e156fad,Overall Match Accuracy,0.9333333333333333
+5,6148e91f4528cbc45e156fad,Overall Match RT,383.460344820187
+6,6148e91f4528cbc45e156fad,CR Overall,0.7983193277310925
+7,6148e91f4528cbc45e156fad,HR Overall,0.9243697478991597
+8,6148e91f4528cbc45e156fad,FA Overall,0.12605042016806722
+9,6148e91f4528cbc45e156fad,CR Overall High Reward,0.7483050847457627
+10,6148e91f4528cbc45e156fad,CR Overall Low Reward,0.8483050847457627
+11,6148e91f4528cbc45e156fad,CR Ph1 High Reward,0.7120689655172413
+12,6148e91f4528cbc45e156fad,CR Ph1 Low Reward,0.8316384180790961
+13,6148e91f4528cbc45e156fad,CR Ph2 High Reward,0.7833333333333333
+14,6148e91f4528cbc45e156fad,CR Ph2 Low Reward,0.8649717514124293
+15,6148e91f4528cbc45e156fad,DP Overall,3.2816272008671232
+16,6148e91f4528cbc45e156fad,DP Overall High Reward,2.993171798071644
+17,6148e91f4528cbc45e156fad,DP Overall Low Reward,3.6498229517163807
+18,6148e91f4528cbc45e156fad,DP Ph1 High Reward,2.803999110649653
+19,6148e91f4528cbc45e156fad,DP Ph1 Low Reward,3.490924215088684
+20,6148e91f4528cbc45e156fad,DP Ph2 High Reward,3.235665276334456
+21,6148e91f4528cbc45e156fad,DP Ph2 Low Reward,3.862261027154711
+22,6148e91f4528cbc45e156fad,PHQ Score,2
+23,6148e91f4528cbc45e156fad,PHQ Attention Check,1
+24,6148e91f4528cbc45e156fad,Memory Test RT,3257.0752100964555
+25,6148e91f4528cbc45e156fad,Memory Certainty Count,"      response
+0.0        115
+12.0         5
+24.0         5
+60.0        16
+72.0        97"
+26,6148e91f4528cbc45e156fad,Memory Certainty Correct Count,"      response
+0.0        105
+12.0         3
+24.0         2
+60.0        13
+72.0        91"
+27,6148e91f4528cbc45e156fad,Rewarded Category,Animal
+28,6148e91f4528cbc45e156fad,End Survey,"{""Q0"":""amazed"",""Q1"":""recall"",""Q2"":""it was ok""}"
+29,6148e91f4528cbc45e156fad,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,616e005e902b2d33bca749ec,Overall PC,0.9121338912133892
+1,616e005e902b2d33bca749ec,Age,18
+2,616e005e902b2d33bca749ec,Sex,SexMale
+3,616e005e902b2d33bca749ec,Bonus,5.25
+4,616e005e902b2d33bca749ec,Overall Match Accuracy,0.975
+5,616e005e902b2d33bca749ec,Overall Match RT,366.3025423715175
+6,616e005e902b2d33bca749ec,CR Overall,0.8241596638655463
+7,616e005e902b2d33bca749ec,HR Overall,0.8991596638655462
+8,616e005e902b2d33bca749ec,FA Overall,0.075
+9,616e005e902b2d33bca749ec,CR Overall High Reward,0.8152542372881356
+10,616e005e902b2d33bca749ec,CR Overall Low Reward,0.8333333333333333
+11,616e005e902b2d33bca749ec,CR Ph1 High Reward,0.7965517241379311
+12,616e005e902b2d33bca749ec,CR Ph1 Low Reward,0.8166666666666667
+13,616e005e902b2d33bca749ec,CR Ph2 High Reward,0.8333333333333334
+14,616e005e902b2d33bca749ec,CR Ph2 Low Reward,0.85
+15,616e005e902b2d33bca749ec,DP Overall,3.428867149522461
+16,616e005e902b2d33bca749ec,DP Overall High Reward,3.3626342227263435
+17,616e005e902b2d33bca749ec,DP Overall Low Reward,3.560964758695417
+18,616e005e902b2d33bca749ec,DP Ph1 High Reward,3.2422809978115295
+19,616e005e902b2d33bca749ec,DP Ph1 Low Reward,3.471836374476114
+20,616e005e902b2d33bca749ec,DP Ph2 High Reward,3.5014603355953744
+21,616e005e902b2d33bca749ec,DP Ph2 Low Reward,3.6605143201337285
+22,616e005e902b2d33bca749ec,PHQ Score,0
+23,616e005e902b2d33bca749ec,PHQ Attention Check,1
+24,616e005e902b2d33bca749ec,Memory Test RT,3117.5217573222503
+25,616e005e902b2d33bca749ec,Memory Certainty Count,"      response
+0.0        103
+12.0         7
+24.0         6
+48.0        30
+60.0        87
+72.0         6"
+26,616e005e902b2d33bca749ec,Memory Certainty Correct Count,"      response
+0.0        101
+12.0         3
+24.0         3
+48.0        24
+60.0        81
+72.0         6"
+27,616e005e902b2d33bca749ec,Rewarded Category,Object
+28,616e005e902b2d33bca749ec,End Survey,"{""Q0"":""a little"",""Q1"":""i didnt use one just if i knew it i would put defiantly old"",""Q2"":""4""}"
+29,616e005e902b2d33bca749ec,End Survey2,"{""Q0"":""no i would because i would categorize insects as insects"",""Q1"":""no""}"
+0,613b2e77fc77753fe4b94b86,Overall PC,0.7333333333333333
+1,613b2e77fc77753fe4b94b86,Age,25
+2,613b2e77fc77753fe4b94b86,Sex,SexFemale
+3,613b2e77fc77753fe4b94b86,Bonus,5.25
+4,613b2e77fc77753fe4b94b86,Overall Match Accuracy,0.95
+5,613b2e77fc77753fe4b94b86,Overall Match RT,383.1635593241554
+6,613b2e77fc77753fe4b94b86,CR Overall,0.4666666666666667
+7,613b2e77fc77753fe4b94b86,HR Overall,0.675
+8,613b2e77fc77753fe4b94b86,FA Overall,0.20833333333333334
+9,613b2e77fc77753fe4b94b86,CR Overall High Reward,0.4666666666666666
+10,613b2e77fc77753fe4b94b86,CR Overall Low Reward,0.4666666666666667
+11,613b2e77fc77753fe4b94b86,CR Ph1 High Reward,0.36666666666666664
+12,613b2e77fc77753fe4b94b86,CR Ph1 Low Reward,0.44999999999999996
+13,613b2e77fc77753fe4b94b86,CR Ph2 High Reward,0.5666666666666667
+14,613b2e77fc77753fe4b94b86,CR Ph2 Low Reward,0.4833333333333333
+15,613b2e77fc77753fe4b94b86,DP Overall,1.936515327820138
+16,613b2e77fc77753fe4b94b86,DP Overall High Reward,1.9227237896712237
+17,613b2e77fc77753fe4b94b86,DP Overall Low Reward,1.9587673864987543
+18,613b2e77fc77753fe4b94b86,DP Ph1 High Reward,1.6452702193313689
+19,613b2e77fc77753fe4b94b86,DP Ph1 Low Reward,1.9137511291081237
+20,613b2e77fc77753fe4b94b86,DP Ph2 High Reward,2.2409541200433316
+21,613b2e77fc77753fe4b94b86,DP Ph2 Low Reward,2.004450534819871
+22,613b2e77fc77753fe4b94b86,PHQ Score,1
+23,613b2e77fc77753fe4b94b86,PHQ Attention Check,1
+24,613b2e77fc77753fe4b94b86,Memory Test RT,3239.5441666635375
+25,613b2e77fc77753fe4b94b86,Memory Certainty Count,"      response
+0.0         40
+12.0        33
+24.0        33
+48.0        48
+60.0        62
+72.0        24"
+26,613b2e77fc77753fe4b94b86,Memory Certainty Correct Count,"      response
+0.0         39
+12.0        22
+24.0        20
+48.0        28
+60.0        48
+72.0        19"
+27,613b2e77fc77753fe4b94b86,Rewarded Category,Object
+28,613b2e77fc77753fe4b94b86,End Survey,"{""Q0"":""Not overly"",""Q1"":""Yesterday I was trying to name things "",""Q2"":""4""}"
+29,613b2e77fc77753fe4b94b86,End Survey2,"{""Q0"":""Yes "",""Q1"":""I didn't notice ""}"
+0,6165467eb6321c819c2edb0a,Overall PC,0.6861924686192469
+1,6165467eb6321c819c2edb0a,Age,20
+2,6165467eb6321c819c2edb0a,Sex,SexFemale
+3,6165467eb6321c819c2edb0a,Bonus,0
+4,6165467eb6321c819c2edb0a,Overall Match Accuracy,0.8083333333333333
+5,6165467eb6321c819c2edb0a,Overall Match RT,439.6107843136689
+6,6165467eb6321c819c2edb0a,CR Overall,0.3720588235294118
+7,6165467eb6321c819c2edb0a,HR Overall,0.6470588235294118
+8,6165467eb6321c819c2edb0a,FA Overall,0.275
+9,6165467eb6321c819c2edb0a,CR Overall High Reward,0.3612994350282486
+10,6165467eb6321c819c2edb0a,CR Overall Low Reward,0.38333333333333336
+11,6165467eb6321c819c2edb0a,CR Ph1 High Reward,0.3729885057471265
+12,6165467eb6321c819c2edb0a,CR Ph1 Low Reward,0.39999999999999997
+13,6165467eb6321c819c2edb0a,CR Ph2 High Reward,0.35
+14,6165467eb6321c819c2edb0a,CR Ph2 Low Reward,0.36666666666666664
+15,6165467eb6321c819c2edb0a,DP Overall,1.6388976383017246
+16,6165467eb6321c819c2edb0a,DP Overall High Reward,1.6010959481542444
+17,6165467eb6321c819c2edb0a,DP Overall Low Reward,1.6903473779376015
+18,6165467eb6321c819c2edb0a,DP Ph1 High Reward,1.635516223699613
+19,6165467eb6321c819c2edb0a,DP Ph1 Low Reward,1.7357029243344464
+20,6165467eb6321c819c2edb0a,DP Ph2 High Reward,1.5681030580033388
+21,6165467eb6321c819c2edb0a,DP Ph2 Low Reward,1.6452702193313689
+22,6165467eb6321c819c2edb0a,PHQ Score,3
+23,6165467eb6321c819c2edb0a,PHQ Attention Check,1
+24,6165467eb6321c819c2edb0a,Memory Test RT,2766.6062761509174
+25,6165467eb6321c819c2edb0a,Memory Certainty Count,"      response
+0.0         40
+12.0        40
+24.0        30
+48.0        30
+60.0        60
+72.0        39"
+26,6165467eb6321c819c2edb0a,Memory Certainty Correct Count,"      response
+0.0         34
+12.0        29
+24.0        14
+48.0        21
+60.0        35
+72.0        31"
+27,6165467eb6321c819c2edb0a,Rewarded Category,Animal
+28,6165467eb6321c819c2edb0a,End Survey,"{""Q0"":""Fairly surprised by how much I remembered"",""Q1"":""How familiar were the images to me"",""Q2"":""3""}"
+29,6165467eb6321c819c2edb0a,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,615d94c102171dd2113668cc,Overall PC,0.5333333333333333
+1,615d94c102171dd2113668cc,Age,30
+2,615d94c102171dd2113668cc,Sex,SexFemale
+3,615d94c102171dd2113668cc,Bonus,0.25
+4,615d94c102171dd2113668cc,Overall Match Accuracy,0.8416666666666667
+5,615d94c102171dd2113668cc,Overall Match RT,451.84579439363745
+6,615d94c102171dd2113668cc,CR Overall,0.06666666666666671
+7,615d94c102171dd2113668cc,HR Overall,0.4166666666666667
+8,615d94c102171dd2113668cc,FA Overall,0.35
+9,615d94c102171dd2113668cc,CR Overall High Reward,0.08333333333333331
+10,615d94c102171dd2113668cc,CR Overall Low Reward,0.04999999999999999
+11,615d94c102171dd2113668cc,CR Ph1 High Reward,-0.016666666666666663
+12,615d94c102171dd2113668cc,CR Ph1 Low Reward,0.11666666666666664
+13,615d94c102171dd2113668cc,CR Ph2 High Reward,0.18333333333333335
+14,615d94c102171dd2113668cc,CR Ph2 Low Reward,-0.016666666666666663
+15,615d94c102171dd2113668cc,DP Overall,0.629317329892677
+16,615d94c102171dd2113668cc,DP Overall High Reward,0.749185712457086
+17,615d94c102171dd2113668cc,DP Overall Low Reward,0.5302735168627102
+18,615d94c102171dd2113668cc,DP Ph1 High Reward,-0.34274882833892245
+19,615d94c102171dd2113668cc,DP Ph1 Low Reward,0.827128235473054
+20,615d94c102171dd2113668cc,DP Ph2 High Reward,1.1150992870133791
+21,615d94c102171dd2113668cc,DP Ph2 Low Reward,-0.304331737486313
+22,615d94c102171dd2113668cc,PHQ Score,1
+23,615d94c102171dd2113668cc,PHQ Attention Check,1
+24,615d94c102171dd2113668cc,Memory Test RT,2631.3837499986093
+25,615d94c102171dd2113668cc,Memory Certainty Count,"      response
+0.0         20
+12.0        40
+24.0        32
+48.0        64
+60.0        60
+72.0        24"
+26,615d94c102171dd2113668cc,Memory Certainty Correct Count,"      response
+0.0         13
+12.0        22
+24.0        15
+48.0        30
+60.0        33
+72.0        15"
+27,615d94c102171dd2113668cc,Rewarded Category,Object
+28,615d94c102171dd2113668cc,End Survey,"{""Q0"":""it was hard"",""Q1"":""trying to remember "",""Q2"":""2""}"
+29,615d94c102171dd2113668cc,End Survey2,"{""Q0"":""yeah, animals and tools"",""Q1"":""no""}"
+0,616592e7987b8cd9c3da71e1,Overall PC,0.7564102564102564
+1,616592e7987b8cd9c3da71e1,Age,34
+2,616592e7987b8cd9c3da71e1,Sex,SexFemale
+3,616592e7987b8cd9c3da71e1,Bonus,5.25
+4,616592e7987b8cd9c3da71e1,Overall Match Accuracy,0.9583333333333334
+5,616592e7987b8cd9c3da71e1,Overall Match RT,436.51282051281726
+6,616592e7987b8cd9c3da71e1,CR Overall,0.5103740502630041
+7,616592e7987b8cd9c3da71e1,HR Overall,0.6120689655172413
+8,616592e7987b8cd9c3da71e1,FA Overall,0.1016949152542373
+9,616592e7987b8cd9c3da71e1,CR Overall High Reward,0.5178258328462887
+10,616592e7987b8cd9c3da71e1,CR Overall Low Reward,0.5029222676797195
+11,616592e7987b8cd9c3da71e1,CR Ph1 High Reward,0.4661016949152542
+12,616592e7987b8cd9c3da71e1,CR Ph1 Low Reward,0.3638418079096045
+13,616592e7987b8cd9c3da71e1,CR Ph2 High Reward,0.5661016949152542
+14,616592e7987b8cd9c3da71e1,CR Ph2 Low Reward,0.6519370460048426
+15,616592e7987b8cd9c3da71e1,DP Overall,2.228077717176267
+16,616592e7987b8cd9c3da71e1,DP Overall High Reward,2.630417089217907
+17,616592e7987b8cd9c3da71e1,DP Overall Low Reward,2.0739993842343996
+18,616592e7987b8cd9c3da71e1,DP Ph1 High Reward,2.498779736621153
+19,616592e7987b8cd9c3da71e1,DP Ph1 Low Reward,1.7060405227286828
+20,616592e7987b8cd9c3da71e1,DP Ph2 High Reward,2.7563280941306774
+21,616592e7987b8cd9c3da71e1,DP Ph2 Low Reward,2.549935217532809
+22,616592e7987b8cd9c3da71e1,PHQ Score,0
+23,616592e7987b8cd9c3da71e1,PHQ Attention Check,1
+24,616592e7987b8cd9c3da71e1,Memory Test RT,3825.6153846153866
+25,616592e7987b8cd9c3da71e1,Memory Certainty Count,"      response
+0.0         35
+12.0        23
+24.0        25
+48.0       131
+60.0        18
+72.0         2"
+26,616592e7987b8cd9c3da71e1,Memory Certainty Correct Count,"      response
+0.0         34
+12.0        19
+24.0        18
+48.0        88
+60.0        16
+72.0         2"
+27,616592e7987b8cd9c3da71e1,Rewarded Category,Animal
+28,616592e7987b8cd9c3da71e1,End Survey,"{""Q0"":""I wasn't expecting a memory test so fairly surprised"",""Q1"":""I used my gut instinct on if I had seen the picture before and if it was 'ringing a bell'"",""Q2"":""3""}"
+29,616592e7987b8cd9c3da71e1,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,616aefe95b92af9f1dbfbffb,Overall PC,0.7
+1,616aefe95b92af9f1dbfbffb,Age,31
+2,616aefe95b92af9f1dbfbffb,Sex,SexMale
+3,616aefe95b92af9f1dbfbffb,Bonus,5.25
+4,616aefe95b92af9f1dbfbffb,Overall Match Accuracy,0.9166666666666666
+5,616aefe95b92af9f1dbfbffb,Overall Match RT,451.04732142915185
+6,616aefe95b92af9f1dbfbffb,CR Overall,0.3999999999999999
+7,616aefe95b92af9f1dbfbffb,HR Overall,0.6083333333333333
+8,616aefe95b92af9f1dbfbffb,FA Overall,0.20833333333333334
+9,616aefe95b92af9f1dbfbffb,CR Overall High Reward,0.36666666666666664
+10,616aefe95b92af9f1dbfbffb,CR Overall Low Reward,0.43333333333333335
+11,616aefe95b92af9f1dbfbffb,CR Ph1 High Reward,0.36666666666666664
+12,616aefe95b92af9f1dbfbffb,CR Ph1 Low Reward,0.3833333333333333
+13,616aefe95b92af9f1dbfbffb,CR Ph2 High Reward,0.36666666666666664
+14,616aefe95b92af9f1dbfbffb,CR Ph2 Low Reward,0.4833333333333333
+15,616aefe95b92af9f1dbfbffb,DP Overall,1.7547979263800435
+16,616aefe95b92af9f1dbfbffb,DP Overall High Reward,1.6452702193313689
+17,616aefe95b92af9f1dbfbffb,DP Overall Low Reward,1.869267011529853
+18,616aefe95b92af9f1dbfbffb,DP Ph1 High Reward,1.6452702193313689
+19,616aefe95b92af9f1dbfbffb,DP Ph1 Low Reward,1.7377810764763642
+20,616aefe95b92af9f1dbfbffb,DP Ph2 High Reward,1.6452702193313689
+21,616aefe95b92af9f1dbfbffb,DP Ph2 Low Reward,2.004450534819871
+22,616aefe95b92af9f1dbfbffb,PHQ Score,1
+23,616aefe95b92af9f1dbfbffb,PHQ Attention Check,1
+24,616aefe95b92af9f1dbfbffb,Memory Test RT,2527.885312495831
+25,616aefe95b92af9f1dbfbffb,Memory Certainty Count,"      response
+0.0         43
+12.0        18
+24.0        37
+48.0        28
+60.0        74
+72.0        40"
+26,616aefe95b92af9f1dbfbffb,Memory Certainty Correct Count,"      response
+0.0         38
+12.0        10
+24.0        25
+48.0        19
+60.0        45
+72.0        31"
+27,616aefe95b92af9f1dbfbffb,Rewarded Category,Animal
+28,616aefe95b92af9f1dbfbffb,End Survey,"{""Q0"":""Quite surprised "",""Q1"":""Try to recall what I simply was sure I did see"",""Q2"":""4""}"
+29,616aefe95b92af9f1dbfbffb,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
+0,60414322a28de10c2f909183,Overall PC,0.690677966101695
+1,60414322a28de10c2f909183,Age,27
+2,60414322a28de10c2f909183,Sex,SexMale
+3,60414322a28de10c2f909183,Bonus,5.25
+4,60414322a28de10c2f909183,Overall Match Accuracy,0.95
+5,60414322a28de10c2f909183,Overall Match RT,391.50769230757606
+6,60414322a28de10c2f909183,CR Overall,0.37879767291531996
+7,60414322a28de10c2f909183,HR Overall,0.5384615384615384
+8,60414322a28de10c2f909183,FA Overall,0.15966386554621848
+9,60414322a28de10c2f909183,CR Overall High Reward,0.2728070175438596
+10,60414322a28de10c2f909183,CR Overall Low Reward,0.4810734463276837
+11,60414322a28de10c2f909183,CR Ph1 High Reward,0.24523809523809523
+12,60414322a28de10c2f909183,CR Ph1 Low Reward,0.3977401129943503
+13,60414322a28de10c2f909183,CR Ph2 High Reward,0.2994252873563219
+14,60414322a28de10c2f909183,CR Ph2 Low Reward,0.5644067796610169
+15,60414322a28de10c2f909183,DP Overall,1.7601351261840414
+16,60414322a28de10c2f909183,DP Overall High Reward,1.4445337281215884
+17,60414322a28de10c2f909183,DP Overall Low Reward,2.068292915974741
+18,60414322a28de10c2f909183,DP Ph1 High Reward,1.3676056329108892
+19,60414322a28de10c2f909183,DP Ph1 Low Reward,1.8535558681904079
+20,60414322a28de10c2f909183,DP Ph2 High Reward,1.5167662226432788
+21,60414322a28de10c2f909183,DP Ph2 Low Reward,2.296220093833047
+22,60414322a28de10c2f909183,PHQ Score,1
+23,60414322a28de10c2f909183,PHQ Attention Check,1
+24,60414322a28de10c2f909183,Memory Test RT,2062.4894067799137
+25,60414322a28de10c2f909183,Memory Certainty Count,"      response
+0.0         30
+12.0        21
+24.0        31
+48.0        81
+60.0        60
+72.0        13"
+26,60414322a28de10c2f909183,Memory Certainty Correct Count,"      response
+0.0         26
+12.0        17
+24.0        20
+48.0        50
+60.0        41
+72.0         9"
+27,60414322a28de10c2f909183,Rewarded Category,Animal
+28,60414322a28de10c2f909183,End Survey,"{""Q0"":""Not suprised, I thought step 2 might be to remember"",""Q1"":""I think I typically have a good memory, so I remembered quite afew"",""Q2"":""4""}"
+29,60414322a28de10c2f909183,End Survey2,"{""Q0"":""Didn't notice, actually!"",""Q1"":""Animals I think""}"
+0,5638a69b44e8c80011e86a13,Overall PC,0.6041666666666666
+1,5638a69b44e8c80011e86a13,Age,32
+2,5638a69b44e8c80011e86a13,Sex,SexMale
+3,5638a69b44e8c80011e86a13,Bonus,5.25
+4,5638a69b44e8c80011e86a13,Overall Match Accuracy,0.9
+5,5638a69b44e8c80011e86a13,Overall Match RT,461.65871559589283
+6,5638a69b44e8c80011e86a13,CR Overall,0.20833333333333331
+7,5638a69b44e8c80011e86a13,HR Overall,0.48333333333333334
+8,5638a69b44e8c80011e86a13,FA Overall,0.275
+9,5638a69b44e8c80011e86a13,CR Overall High Reward,0.15000000000000002
+10,5638a69b44e8c80011e86a13,CR Overall Low Reward,0.26666666666666666
+11,5638a69b44e8c80011e86a13,CR Ph1 High Reward,0.21666666666666667
+12,5638a69b44e8c80011e86a13,CR Ph1 Low Reward,0.1333333333333333
+13,5638a69b44e8c80011e86a13,CR Ph2 High Reward,0.08333333333333337
+14,5638a69b44e8c80011e86a13,CR Ph2 Low Reward,0.39999999999999997
+15,5638a69b44e8c80011e86a13,DP Overall,1.175241297483553
+16,5638a69b44e8c80011e86a13,DP Overall High Reward,0.9691811066883059
+17,5638a69b44e8c80011e86a13,DP Overall Low Reward,1.3733841251676997
+18,5638a69b44e8c80011e86a13,DP Ph1 High Reward,1.180902004863657
+19,5638a69b44e8c80011e86a13,DP Ph1 Low Reward,0.9608291307329686
+20,5638a69b44e8c80011e86a13,DP Ph2 High Reward,0.7159401682868639
+21,5638a69b44e8c80011e86a13,DP Ph2 Low Reward,1.7357029243344464
+22,5638a69b44e8c80011e86a13,PHQ Score,1
+23,5638a69b44e8c80011e86a13,PHQ Attention Check,1
+24,5638a69b44e8c80011e86a13,Memory Test RT,2080.9912500000405
+25,5638a69b44e8c80011e86a13,Memory Certainty Count,"      response
+0.0         19
+12.0        32
+24.0        40
+48.0        33
+60.0       109
+72.0         7"
+26,5638a69b44e8c80011e86a13,Memory Certainty Correct Count,"      response
+0.0         17
+12.0        21
+24.0        20
+48.0        20
+60.0        62
+72.0         5"
+27,5638a69b44e8c80011e86a13,Rewarded Category,Animal
+28,5638a69b44e8c80011e86a13,End Survey,"{""Q0"":""not very"",""Q1"":""i tried to remember"",""Q2"":""4""}"
+29,5638a69b44e8c80011e86a13,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,6150443ed6bbe7d25a6722a7,Overall PC,0.8601694915254238
+1,6150443ed6bbe7d25a6722a7,Age,29
+2,6150443ed6bbe7d25a6722a7,Sex,SexMale
+3,6150443ed6bbe7d25a6722a7,Bonus,5
+4,6150443ed6bbe7d25a6722a7,Overall Match Accuracy,0.9333333333333333
+5,6150443ed6bbe7d25a6722a7,Overall Match RT,416.8426086958336
+6,6150443ed6bbe7d25a6722a7,CR Overall,0.7203389830508474
+7,6150443ed6bbe7d25a6722a7,HR Overall,0.9152542372881356
+8,6150443ed6bbe7d25a6722a7,FA Overall,0.19491525423728814
+9,6150443ed6bbe7d25a6722a7,CR Overall High Reward,0.6949152542372882
+10,6150443ed6bbe7d25a6722a7,CR Overall Low Reward,0.7457627118644068
+11,6150443ed6bbe7d25a6722a7,CR Ph1 High Reward,0.6931618936294565
+12,6150443ed6bbe7d25a6722a7,CR Ph1 Low Reward,0.8135593220338984
+13,6150443ed6bbe7d25a6722a7,CR Ph2 High Reward,0.6966101694915254
+14,6150443ed6bbe7d25a6722a7,CR Ph2 Low Reward,0.680225988700565
+15,6150443ed6bbe7d25a6722a7,DP Overall,2.915357881064248
+16,6150443ed6bbe7d25a6722a7,DP Overall High Reward,2.7787311314326244
+17,6150443ed6bbe7d25a6722a7,DP Overall Low Reward,3.072050252016038
+18,6150443ed6bbe7d25a6722a7,DP Ph1 High Reward,2.7686581094015668
+19,6150443ed6bbe7d25a6722a7,DP Ph1 Low Reward,3.9893925081598356
+20,6150443ed6bbe7d25a6722a7,DP Ph2 High Reward,2.7885970256362396
+21,6150443ed6bbe7d25a6722a7,DP Ph2 Low Reward,2.676724751522075
+22,6150443ed6bbe7d25a6722a7,PHQ Score,0
+23,6150443ed6bbe7d25a6722a7,PHQ Attention Check,1
+24,6150443ed6bbe7d25a6722a7,Memory Test RT,3680.7669491521633
+25,6150443ed6bbe7d25a6722a7,Memory Certainty Count,"      response
+0.0        118
+12.0        11
+24.0         2
+48.0        30
+60.0        41
+72.0        34"
+26,6150443ed6bbe7d25a6722a7,Memory Certainty Correct Count,"      response
+0.0        101
+12.0         6
+24.0         1
+48.0        29
+60.0        34
+72.0        32"
+27,6150443ed6bbe7d25a6722a7,Rewarded Category,Object
+28,6150443ed6bbe7d25a6722a7,End Survey,"{""Q0"":""really surprised"",""Q1"":""yesterday i said all the items out loud i think this helped slightly today"",""Q2"":""2""}"
+29,6150443ed6bbe7d25a6722a7,End Survey2,"{""Q0"":""yes"",""Q1"":""no""}"
+0,5af5d399e19f8c00019e3b83,Overall PC,0.7573221757322176
+1,5af5d399e19f8c00019e3b83,Age,29
+2,5af5d399e19f8c00019e3b83,Sex,SexFemale
+3,5af5d399e19f8c00019e3b83,Bonus,0.25
+4,5af5d399e19f8c00019e3b83,Overall Match Accuracy,0.8416666666666667
+5,5af5d399e19f8c00019e3b83,Overall Match RT,464.0867924528583
+6,5af5d399e19f8c00019e3b83,CR Overall,0.515546218487395
+7,5af5d399e19f8c00019e3b83,HR Overall,0.65
+8,5af5d399e19f8c00019e3b83,FA Overall,0.13445378151260504
+9,5af5d399e19f8c00019e3b83,CR Overall High Reward,0.4307909604519774
+10,5af5d399e19f8c00019e3b83,CR Overall Low Reward,0.6
+11,5af5d399e19f8c00019e3b83,CR Ph1 High Reward,0.447457627118644
+12,5af5d399e19f8c00019e3b83,CR Ph1 Low Reward,0.6166666666666666
+13,5af5d399e19f8c00019e3b83,CR Ph2 High Reward,0.4141242937853107
+14,5af5d399e19f8c00019e3b83,CR Ph2 Low Reward,0.5833333333333333
+15,5af5d399e19f8c00019e3b83,DP Overall,2.162264367072466
+16,5af5d399e19f8c00019e3b83,DP Overall High Reward,1.9062619874067568
+17,5af5d399e19f8c00019e3b83,DP Overall Low Reward,2.4367580076124407
+18,5af5d399e19f8c00019e3b83,DP Ph1 High Reward,1.9495801867760723
+19,5af5d399e19f8c00019e3b83,DP Ph1 Low Reward,2.4870668715196786
+20,5af5d399e19f8c00019e3b83,DP Ph2 High Reward,1.8631943738878218
+21,5af5d399e19f8c00019e3b83,DP Ph2 Low Reward,2.3879503734038723
+22,5af5d399e19f8c00019e3b83,PHQ Score,1
+23,5af5d399e19f8c00019e3b83,PHQ Attention Check,1
+24,5af5d399e19f8c00019e3b83,Memory Test RT,2356.4108786610223
+25,5af5d399e19f8c00019e3b83,Memory Certainty Count,"      response
+0.0         52
+12.0        22
+24.0        20
+48.0        38
+60.0        53
+72.0        54"
+26,5af5d399e19f8c00019e3b83,Memory Certainty Correct Count,"      response
+0.0         48
+12.0        18
+24.0        12
+48.0        24
+60.0        34
+72.0        45"
+27,5af5d399e19f8c00019e3b83,Rewarded Category,Object
+28,5af5d399e19f8c00019e3b83,End Survey,"{""Q0"":""8"",""Q1"":""General recall, if the pictures looked familar or not"",""Q2"":""4""}"
+29,5af5d399e19f8c00019e3b83,End Survey2,"{""Q0"":""Yes"",""Q1"":""No""}"
